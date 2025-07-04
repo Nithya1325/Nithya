@@ -1,0 +1,1001 @@
+id,title,genres,averageRating,numVotes,releaseYear,Rating_Category,Decade,Votes_Category
+tt0111161,The Shawshank Redemption,Drama,9.3,3057719,1994,Excellent,1990s,Very High
+tt0068646,The Godfather,"Crime, Drama",9.2,2134529,1972,Excellent,1970s,Very High
+tt0252487,The Chaos Class,Comedy,9.2,44607,1975,Excellent,1970s,Low
+tt33175825,Attack on Titan the Movie: The Last Attack,"Action, Adventure, Animation",9.2,17344,2024,Excellent,2020s,Low
+tt0259534,Ramayana: The Legend of Prince Rama,"Action, Adventure, Animation",9.1,16480,1993,Excellent,1990s,Low
+tt0468569,The Dark Knight,"Action, Crime, Drama",9,3032577,2008,Excellent,2000s,Very High
+tt0167260,The Lord of the Rings: The Return of the King,"Adventure, Drama, Fantasy",9,2086173,2003,Excellent,2000s,Very High
+tt0108052,Schindler's List,"Biography, Drama, History",9,1530103,1993,Excellent,1990s,Very High
+tt0071562,The Godfather Part II,"Crime, Drama",9,1436186,1974,Excellent,1970s,Very High
+tt0050083,12 Angry Men,"Crime, Drama",9,931860,1957,Excellent,1950s,Very High
+tt16747572,The Silence of Swastika,"Documentary, History",9,10643,2021,Excellent,2020s,Low
+tt0120737,The Lord of the Rings: The Fellowship of the Ring,"Adventure, Drama, Fantasy",8.9,2116575,2001,Excellent,2000s,Very High
+tt5354160,Mirror Game,"Crime, Mystery, Thriller",8.9,30552,2016,Excellent,2010s,Low
+tt0253828,Tosun Pasha,"Comedy, History",8.9,25609,1976,Excellent,1970s,Low
+tt5275892,O.J.: Made in America,"Biography, Crime, Documentary",8.9,23205,2016,Excellent,2010s,Low
+tt0075143,The Message,"Biography, Drama, History",8.9,11469,1976,Excellent,1970s,Low
+tt1375666,Inception,"Action, Adventure, Sci-Fi",8.8,2695101,2010,Excellent,2010s,Very High
+tt0137523,Fight Club,"Crime, Drama, Thriller",8.8,2476762,1999,Excellent,1990s,Very High
+tt0109830,Forrest Gump,"Drama, Romance",8.8,2389124,1994,Excellent,1990s,Very High
+tt0110912,Pulp Fiction,"Crime, Drama",8.8,2344113,1994,Excellent,1990s,Very High
+tt0167261,The Lord of the Rings: The Two Towers,"Adventure, Drama, Fantasy",8.8,1880542,2002,Excellent,2000s,Very High
+tt0060196,"The Good, the Bad and the Ugly","Adventure, Drama, Western",8.8,858368,1966,Excellent,1960s,Very High
+tt0253779,The Foster Brothers,"Comedy, History",8.8,21864,1976,Excellent,1970s,Low
+tt0084302,The Marathon Family,"Comedy, Drama",8.8,17688,1982,Excellent,1980s,Low
+tt33428606,Solo Leveling: ReAwakening,"Action, Adventure, Animation",8.8,13597,2024,Excellent,2020s,Low
+tt0086935,Balkan Spy,"Comedy, Drama",8.8,13034,1984,Excellent,1980s,Low
+tt2077886,The Phantom of the Opera at the Royal Albert Hall,"Drama, Musical, Romance",8.8,10447,2011,Excellent,2010s,Low
+tt0816692,Interstellar,"Adventure, Drama, Sci-Fi",8.7,2358433,2014,Excellent,2010s,Very High
+tt0133093,The Matrix,"Action, Sci-Fi",8.7,2163161,1999,Excellent,1990s,Very High
+tt0080684,Star Wars: Episode V - The Empire Strikes Back,"Action, Adventure, Fantasy",8.7,1449158,1980,Excellent,1980s,Very High
+tt0099685,Goodfellas,"Biography, Crime, Drama",8.7,1331950,1990,Excellent,1990s,Very High
+tt0073486,One Flew Over the Cuckoo's Nest,Drama,8.7,1121143,1975,Excellent,1970s,Very High
+tt23849204,12th Fail,"Biography, Drama",8.7,150044,2023,Excellent,2020s,Medium
+tt7466810,777 Charlie,"Adventure, Comedy, Drama",8.7,43506,2022,Excellent,2020s,Low
+tt0252488,The Chaos Class Failed the Class,Comedy,8.7,26977,1975,Excellent,1970s,Low
+tt0088178,Stop Making Sense,"Documentary, Music",8.7,22788,1984,Excellent,1980s,Low
+tt0252490,The Chaos Class Is Waking Up,Comedy,8.7,21689,1976,Excellent,1970s,Low
+tt0253614,"Saban, Son of Saban","Comedy, History",8.7,19427,1977,Excellent,1970s,Low
+tt6019206,Kill Bill: The Whole Bloody Affair,"Action, Crime, Thriller",8.7,18909,2006,Excellent,2000s,Low
+tt14888874,Demon Slayer: Kimetsu no Yaiba - Mt. Natagumo Arc,"Action, Animation, Fantasy",8.7,17431,2020,Excellent,2020s,Low
+tt0076276,Who's Singin' Over There?,"Adventure, Comedy, Drama",8.7,17368,1980,Excellent,1980s,Low
+tt10534500,#Home,"Drama, Family",8.7,17314,2021,Excellent,2020s,Low
+tt7738784,Resurrection,"Drama, Family",8.7,17215,2018,Excellent,2010s,Low
+tt0214915,Manichithrathazhu,"Comedy, Horror, Mystery",8.7,13628,1993,Excellent,1990s,Low
+tt0765833,Happy Days,"Comedy, Drama",8.7,12483,1978,Excellent,1970s,Low
+tt0090015,Shoah,"Documentary, History, War",8.7,11162,1985,Excellent,1980s,Low
+tt0114369,Se7en,"Crime, Drama, Mystery",8.6,1919486,1995,Excellent,1990s,Very High
+tt0102926,The Silence of the Lambs,"Crime, Drama, Horror",8.6,1642816,1991,Excellent,1990s,Very High
+tt0120815,Saving Private Ryan,"Drama, War",8.6,1575635,1998,Excellent,1990s,Very High
+tt0076759,Star Wars: Episode IV - A New Hope,"Action, Adventure, Fantasy",8.6,1516372,1977,Excellent,1970s,Very High
+tt0120689,The Green Mile,"Crime, Drama, Fantasy",8.6,1491853,1999,Excellent,1990s,Very High
+tt0103064,Terminator 2: Judgment Day,"Action, Adventure, Sci-Fi",8.6,1237215,1991,Excellent,1990s,Very High
+tt0245429,Spirited Away,"Adventure, Animation, Family",8.6,915229,2001,Excellent,2000s,Very High
+tt0317248,City of God,"Crime, Drama",8.6,840367,2002,Excellent,2000s,Very High
+tt0118799,Life Is Beautiful,"Comedy, Drama, Romance",8.6,781424,1997,Excellent,1990s,Very High
+tt0038650,It's a Wonderful Life,"Drama, Family, Fantasy",8.6,529549,1946,Excellent,1940s,Very High
+tt0047478,Seven Samurai,"Action, Drama",8.6,386564,1954,Excellent,1950s,High
+tt15097216,Jai Bhim,"Crime, Drama",8.6,226825,2021,Excellent,2020s,High
+tt10189514,Soorarai Pottru,Drama,8.6,128208,2020,Excellent,2020s,Medium
+tt0056058,Harakiri,"Drama, Mystery",8.6,80684,1962,Excellent,1960s,Medium
+tt9263550,Rocketry: The Nambi Effect,"Biography, Drama",8.6,60684,2022,Excellent,2020s,Medium
+tt0367495,Anbe Sivam,"Adventure, Comedy, Drama",8.6,27040,2003,Excellent,2000s,Low
+tt0093603,Nayakan,"Crime, Drama",8.6,26493,1987,Excellent,1980s,Low
+tt0271383,A Dog's Will,"Comedy, Drama, Fantasy",8.6,20408,2000,Excellent,2000s,Low
+tt0358456,Earthlings,Documentary,8.6,20224,2005,Excellent,2000s,Low
+tt8176054,Pariyerum Perumal,Drama,8.6,19638,2018,Excellent,2010s,Low
+tt0252489,The Chaos Class Is on Vacation,Comedy,8.6,19583,1977,Excellent,1970s,Low
+tt0116860,"Pretty Village, Pretty Flame","Drama, History, War",8.6,18483,1996,Excellent,1990s,Low
+tt0252597,"Feyzo, the Polite One","Comedy, Drama",8.6,18089,1978,Excellent,1970s,Low
+tt0201368,The Broken Landlord,"Comedy, Drama",8.6,17106,1985,Excellent,1980s,Low
+tt17592606,Daman,"Adventure, Drama",8.6,14022,2022,Excellent,2020s,Low
+tt8737152,Toma,"Biography, Drama, Music",8.6,13006,2021,Excellent,2020s,Low
+tt0069090,Pink Floyd: Live at Pompeii,"Documentary, Music",8.6,10958,1972,Excellent,1970s,Low
+tt0267351,My Dear Brother,Drama,8.6,10804,1973,Excellent,1970s,Low
+tt1853728,Django Unchained,"Drama, Western",8.5,1798568,2012,Excellent,2010s,Very High
+tt0172495,Gladiator,"Action, Adventure, Drama",8.5,1767480,2000,Excellent,2000s,Very High
+tt0482571,The Prestige,"Drama, Mystery, Sci-Fi",8.5,1520634,2006,Excellent,2000s,Very High
+tt0407887,The Departed,"Crime, Drama, Thriller",8.5,1493392,2006,Excellent,2000s,Very High
+tt0088763,Back to the Future,"Adventure, Comedy, Sci-Fi",8.5,1383392,1985,Excellent,1980s,Very High
+tt0110413,Léon: The Professional,"Action, Crime, Drama",8.5,1306906,1994,Excellent,1990s,Very High
+tt0120586,American History X,"Crime, Drama",8.5,1234735,1998,Excellent,1990s,Very High
+tt0110357,The Lion King,"Adventure, Animation, Drama",8.5,1208039,1994,Excellent,1990s,Very High
+tt0114814,The Usual Suspects,"Crime, Drama, Mystery",8.5,1193656,1995,Excellent,1990s,Very High
+tt2582802,Whiplash,"Drama, Music",8.5,1080560,2014,Excellent,2010s,Very High
+tt6751668,Parasite,"Drama, Thriller",8.5,1070391,2019,Excellent,2010s,Very High
+tt0078748,Alien,"Horror, Sci-Fi",8.5,1019966,1979,Excellent,1970s,Very High
+tt1675434,The Intouchables,"Comedy, Drama",8.5,982418,2011,Excellent,2010s,Very High
+tt0253474,The Pianist,"Biography, Drama, Music",8.5,971739,2002,Excellent,2000s,Very High
+tt0054215,Psycho,"Drama, Horror, Mystery",8.5,755430,1960,Excellent,1960s,Very High
+tt15239678,Dune: Part Two,"Action, Adventure, Drama",8.5,640493,2024,Excellent,2020s,Very High
+tt0034583,Casablanca,"Drama, Romance, War",8.5,634359,1942,Excellent,1940s,Very High
+tt10811166,The Kashmir Files,Drama,8.5,576434,2022,Excellent,2020s,Very High
+tt0047396,Rear Window,"Drama, Mystery, Thriller",8.5,549220,1954,Excellent,1950s,Very High
+tt9362722,Spider-Man: Across the Spider-Verse,"Action, Adventure, Animation",8.5,461400,2023,Excellent,2020s,High
+tt0064116,Once Upon a Time in the West,"Drama, Western",8.5,369841,1968,Excellent,1960s,High
+tt0095327,Grave of the Fireflies,"Animation, Drama, War",8.5,352372,1988,Excellent,1980s,High
+tt0095765,Cinema Paradiso,"Drama, Romance",8.5,302760,1988,Excellent,1980s,High
+tt0027977,Modern Times,"Comedy, Drama, Romance",8.5,274182,1936,Excellent,1930s,High
+tt0021749,City Lights,"Comedy, Drama, Romance",8.5,207811,1931,Excellent,1930s,High
+tt1424432,Senna,"Biography, Documentary, Sport",8.5,80959,2010,Excellent,2010s,Medium
+tt20850406,Sita Ramam,"Action, Drama, Mystery",8.5,76594,2022,Excellent,2020s,Medium
+tt1152758,Dear Zachary: A Letter to a Son About His Father,"Biography, Crime, Documentary",8.5,43389,2008,Excellent,2000s,Low
+tt0103767,Baraka,Documentary,8.5,42217,1992,Excellent,1990s,Low
+tt7019842,96,"Drama, Romance",8.5,41713,2018,Excellent,2010s,Low
+tt16492678,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,"Action, Animation, Fantasy",8.5,32530,2021,Excellent,2020s,Low
+tt11580854,Sarpatta Parambarai,"Action, Drama, Sport",8.5,26946,2021,Excellent,2020s,Low
+tt24082438,20 Days in Mariupol,"Documentary, War",8.5,25902,2023,Excellent,2020s,Low
+tt0346336,The Best of Youth,"Drama, Romance",8.5,25369,2003,Excellent,2000s,Low
+tt8948790,Jersey,"Drama, Sport",8.5,25116,2019,Excellent,2010s,Low
+tt1014762,Home,"Documentary, Family",8.5,23307,2009,Excellent,2000s,Low
+tt0253997,The King of the Street Cleaners,Comedy,8.5,22259,1977,Excellent,1970s,Low
+tt0054407,The Hole,"Crime, Drama, Thriller",8.5,22054,1960,Excellent,1960s,Low
+tt0079221,Gol Maal,"Comedy, Romance",8.5,21467,1979,Excellent,1970s,Low
+tt8413338,Kumbalangi Nights,"Comedy, Drama, Romance",8.5,20107,2019,Excellent,2010s,Low
+tt0263975,The Girl with the Red Scarf,"Drama, Romance",8.5,17621,1977,Excellent,1970s,Low
+tt0101649,Thalapathi,"Action, Crime, Drama",8.5,14457,1991,Excellent,1990s,Low
+tt11281220,Intoxicated by Love,"Drama, History, Romance",8.5,13695,2024,Excellent,2020s,Low
+tt9617456,For Sama,"Biography, Documentary, War",8.5,13450,2019,Excellent,2010s,Low
+tt0253991,Zübük,Comedy,8.5,11751,1980,Excellent,1980s,Low
+tt4139928,The Legend of Maula Jatt,"Action, Drama, Fantasy",8.5,11355,2022,Excellent,2020s,Low
+tt0053114,The Human Condition I: No Greater Love,"Drama, History, War",8.5,10260,1959,Excellent,1950s,Low
+tt1345836,The Dark Knight Rises,"Action, Crime, Drama",8.4,1919584,2012,Good,2010s,Very High
+tt0361748,Inglourious Basterds,"Adventure, Drama, War",8.4,1690983,2009,Good,2000s,Very High
+tt0209144,Memento,"Mystery, Thriller",8.4,1383522,2000,Good,2000s,Very High
+tt4154796,Avengers: Endgame,"Action, Adventure, Sci-Fi",8.4,1364636,2019,Good,2010s,Very High
+tt4154756,Avengers: Infinity War,"Action, Adventure, Sci-Fi",8.4,1294133,2018,Good,2010s,Very High
+tt0910970,WALL·E,"Adventure, Animation, Family",8.4,1266116,2008,Good,2000s,Very High
+tt0081505,The Shining,"Drama, Horror",8.4,1171398,1980,Good,1980s,Very High
+tt0082971,Raiders of the Lost Ark,"Action, Adventure",8.4,1077897,1981,Good,1980s,Very High
+tt0090605,Aliens,"Action, Adventure, Horror",8.4,811501,1986,Good,1980s,Very High
+tt0078788,Apocalypse Now,"Drama, Mystery, War",8.4,744782,1979,Good,1970s,Very High
+tt4633694,Spider-Man: Into the Spider-Verse,"Action, Adventure, Animation",8.4,735574,2018,Good,2010s,Very High
+tt2380307,Coco,"Adventure, Animation, Drama",8.4,654422,2017,Good,2010s,Very High
+tt1187043,3 Idiots,"Comedy, Drama",8.4,461022,2009,Good,2000s,High
+tt0086879,Amadeus,"Biography, Drama, Music",8.4,450240,1984,Good,1980s,High
+tt0405094,The Lives of Others,"Drama, Mystery, Thriller",8.4,429085,2006,Good,2000s,High
+tt5311514,Your Name.,"Animation, Drama, Fantasy",8.4,360194,2016,Good,2010s,High
+tt0082096,Das Boot,"Drama, War",8.4,280062,1981,Good,1980s,High
+tt0043014,Sunset Boulevard,"Drama, Film-Noir",8.4,249840,1950,Good,1950s,High
+tt0032553,The Great Dictator,"Comedy, Drama, War",8.4,249717,1940,Good,1940s,High
+tt0050825,Paths of Glory,"Drama, War",8.4,226924,1957,Good,1950s,High
+tt0051201,Witness for the Prosecution,"Crime, Drama, Mystery",8.4,150798,1957,Good,1950s,Medium
+tt8267604,Capernaum,Drama,8.4,116955,2018,Good,2010s,Medium
+tt26548265,Maharaja,"Action, Crime, Drama",8.4,69990,2024,Good,2020s,Medium
+tt0057565,High and Low,"Crime, Drama, Mystery",8.4,61052,1963,Good,1960s,Medium
+tt1313104,The Cove,"Biography, Crime, Documentary",8.4,52458,2009,Good,2000s,Medium
+tt9900782,Kaithi,"Action, Crime, Thriller",8.4,47212,2019,Good,2010s,Low
+tt3417422,Drishyam,"Crime, Drama, Mystery",8.4,46142,2013,Good,2010s,Low
+tt12361178,Drishyam 2,"Crime, Drama, Mystery",8.4,43180,2021,Good,2020s,Low
+tt0770802,Samsara,"Documentary, Music",8.4,39140,2011,Good,2010s,Low
+tt9477520,Asuran,"Action, Drama",8.4,35745,2019,Good,2010s,Low
+tt3674140,The Salt of the Earth,"Biography, Documentary, History",8.4,24618,2014,Good,2010s,Low
+tt0058625,Woman in the Dunes,"Drama, Thriller",8.4,24323,1964,Good,1960s,Low
+tt0416960,The Lizard,"Comedy, Drama",8.4,23694,2004,Good,2000s,Low
+tt4987556,Thani Oruvan,"Action, Crime, Drama",8.4,22740,2015,Good,2010s,Low
+tt0400234,Black Friday,"Action, Crime, Drama",8.4,22739,2004,Good,2000s,Low
+tt5959980,Vada Chennai,"Action, Crime, Drama",8.4,21877,2018,Good,2010s,Low
+tt0052572,The World of Apu,Drama,8.4,17715,1959,Good,1950s,Low
+tt7465992,Mahanati,"Biography, Drama",8.4,15794,2018,Good,2010s,Low
+tt0059550,Operation 'Y' & Other Shurik's Adventures,"Comedy, Crime, Drama",8.4,15748,1965,Good,1960s,Low
+tt26758372,Meiyazhagan,"Drama, Family",8.4,15160,2024,Good,2020s,Low
+tt0073000,The Pinchcliffe Grand Prix,"Animation, Comedy, Family",8.4,14814,1975,Good,1970s,Low
+tt0314067,Philanthropy,"Comedy, Drama",8.4,14301,2002,Good,2000s,Low
+tt4991384,Visaaranai,"Crime, Drama, Thriller",8.4,13047,2015,Good,2010s,Low
+tt12415546,Attack on Titan: Chronicle,"Action, Adventure, Animation",8.4,12451,2020,Good,2020s,Low
+tt0184756,Mr. Muhsin,"Comedy, Drama, Music",8.4,12375,1987,Good,1980s,Low
+tt0383846,"When I Grow Up, I'll Be a Kangaroo",Comedy,8.4,12022,2004,Good,2000s,Low
+tt7286456,Joker,"Crime, Drama, Thriller",8.3,1615662,2019,Good,2010s,Very High
+tt0169547,American Beauty,Drama,8.3,1251903,1999,Good,1990s,Very High
+tt1049413,Up,"Adventure, Animation, Comedy",8.3,1186432,2009,Good,2000s,Very High
+tt0086190,Star Wars: Episode VI - Return of the Jedi,"Action, Adventure, Fantasy",8.3,1169795,1983,Good,1980s,Very High
+tt0119217,Good Will Hunting,"Drama, Romance",8.3,1143120,1997,Good,1990s,Very High
+tt0338013,Eternal Sunshine of the Spotless Mind,"Drama, Romance, Sci-Fi",8.3,1140542,2004,Good,2000s,Very High
+tt0105236,Reservoir Dogs,"Crime, Thriller",8.3,1135775,1992,Good,1990s,Very High
+tt0112573,Braveheart,"Biography, Drama, War",8.3,1132434,1995,Good,1990s,Very High
+tt0114709,Toy Story,"Adventure, Animation, Comedy",8.3,1126672,1995,Good,1990s,Very High
+tt0086250,Scarface,"Crime, Drama",8.3,970372,1983,Good,1980s,Very High
+tt0180093,Requiem for a Dream,Drama,8.3,942102,2000,Good,2000s,Very High
+tt0435761,Toy Story 3,"Adventure, Animation, Comedy",8.3,935000,2010,Good,2010s,Very High
+tt15398776,Oppenheimer,"Biography, Drama, History",8.3,900593,2023,Good,2020s,Very High
+tt0211915,Amélie,"Comedy, Romance",8.3,820441,2001,Good,2000s,Very High
+tt0113277,Heat,"Action, Crime, Drama",8.3,761773,1995,Good,1990s,Very High
+tt0062622,2001: A Space Odyssey,"Adventure, Sci-Fi",8.3,756124,1968,Good,1960s,Very High
+tt0364569,Oldboy,"Action, Drama, Mystery",8.3,682531,2003,Good,2000s,Very High
+tt0057012,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Comedy, War",8.3,539545,1964,Good,1960s,Very High
+tt0033467,Citizen Kane,"Drama, Mystery",8.3,483108,1941,Good,1940s,High
+tt0119698,Princess Mononoke,"Adventure, Animation, Fantasy",8.3,462549,1997,Good,1990s,High
+tt0087843,Once Upon a Time in America,"Crime, Drama",8.3,396589,1984,Good,1980s,High
+tt2106476,The Hunt,Drama,8.3,389951,2012,Good,2010s,High
+tt0053125,North by Northwest,"Adventure, Drama, Mystery",8.3,361437,1959,Good,1950s,High
+tt0056592,To Kill a Mockingbird,"Crime, Drama",8.3,344161,1962,Good,1960s,High
+tt0056172,Lawrence of Arabia,"Adventure, Biography, Drama",8.3,330290,1962,Good,1960s,High
+tt0045152,Singin' in the Rain,"Comedy, Musical, Romance",8.3,273612,1952,Good,1950s,High
+tt1832382,A Separation,Drama,8.3,270225,2011,Good,2010s,High
+tt1255953,Incendies,"Drama, Mystery, War",8.3,229835,2010,Good,2010s,High
+tt5074352,Dangal,"Action, Biography, Drama",8.3,227634,2016,Good,2010s,High
+tt0986264,Like Stars on Earth,"Drama, Family",8.3,219129,2007,Good,2000s,High
+tt0053604,The Apartment,"Comedy, Drama, Romance",8.3,209567,1960,Good,1960s,High
+tt0017136,Metropolis,"Drama, Sci-Fi",8.3,195205,1927,Good,1920s,Medium
+tt0022100,M,"Crime, Mystery, Thriller",8.3,177743,1931,Good,1930s,Medium
+tt0036775,Double Indemnity,"Crime, Drama, Film-Noir",8.3,175498,1944,Good,1940s,Medium
+tt8110330,Dil Bechara,"Comedy, Drama, Romance",8.3,136331,2020,Good,2020s,Medium
+tt10295212,Shershaah,"Action, Biography, Drama",8.3,132883,2021,Good,2020s,Medium
+tt8503618,Hamilton,"Biography, Drama, History",8.3,128673,2020,Good,2020s,Medium
+tt0091251,Come and See,"Drama, Thriller, War",8.3,113176,1985,Good,1980s,Medium
+tt0044741,Ikiru,Drama,8.3,97029,1952,Good,1950s,Medium
+tt0055031,Judgment at Nuremberg,"Drama, War",8.3,92227,1961,Good,1960s,Medium
+tt9179430,Vikram,"Action, Crime, Thriller",8.3,81598,2022,Good,2020s,Medium
+tt27719898,Kaiva,"Action, Drama, Romance",8.3,68983,2023,Good,2020s,Medium
+tt9052870,Chhichhore,"Comedy, Drama, Romance",8.3,68229,2019,Good,2010s,Medium
+tt7060344,Raatchasan,"Crime, Drama, Mystery",8.3,54672,2018,Good,2010s,Medium
+tt21626284,Lost Ladies,"Comedy, Drama",8.3,52473,2023,Good,2020s,Medium
+tt10280296,Sardar Udham,"Crime, Drama, History",8.3,49324,2021,Good,2020s,Low
+tt0019760,Man with a Movie Camera,Documentary,8.3,29299,1929,Good,1920s,Low
+tt0110057,Hoop Dreams,"Documentary, Drama, Sport",8.3,28922,1994,Good,1990s,Low
+tt7681902,Won't You Be My Neighbor?,"Biography, Documentary, History",8.3,27703,2018,Good,2010s,Low
+tt4679210,Premam,"Comedy, Drama, Romance",8.3,25727,2015,Good,2010s,Low
+tt3668162,Bangalore Days,"Comedy, Drama, Romance",8.3,24814,2014,Good,2010s,Low
+tt0376127,Anniyan,"Action, Crime, Drama",8.3,23804,2005,Good,2000s,Low
+tt0058888,Red Beard,Drama,8.3,22403,1965,Good,1960s,Low
+tt9098872,The Rescue,"Action, Documentary, Mystery",8.3,22315,2021,Good,2020s,Low
+tt0037674,Children of Paradise,"Drama, Romance",8.3,21950,1945,Good,1940s,Low
+tt0110081,To Live,"Drama, War",8.3,21527,1994,Good,1990s,Low
+tt0050634,The Cranes Are Flying,"Drama, Romance, War",8.3,21346,1957,Good,1950s,Low
+tt4908644,Winter on Fire: Ukraine's Fight for Freedom,"Documentary, History",8.3,21167,2015,Good,2010s,Low
+tt13391710,Jana Gana Mana,"Drama, Thriller",8.3,19275,2022,Good,2020s,Low
+tt0047445,Sansho the Bailiff,Drama,8.3,19164,1954,Good,1950s,Low
+tt10214826,Agent Sai Srinivasa Athreya,"Comedy, Crime, Mystery",8.3,18470,2019,Good,2010s,Low
+tt5312232,Sairat,"Drama, Romance",8.3,15398,2016,Good,2010s,Low
+tt0085743,Jaane Bhi Do Yaaro,"Comedy, Crime, Drama",8.3,15165,1983,Good,1980s,Low
+tt0061847,Samurai Rebellion,Drama,8.3,14966,1967,Good,1960s,Low
+tt5867800,Aruvi,Drama,8.3,14814,2016,Good,2010s,Low
+tt9006564,2018,"Action, Drama, Thriller",8.3,14505,2023,Good,2020s,Low
+tt0060584,"Kidnapping, Caucasian Style","Adventure, Comedy, Drama",8.3,14398,1967,Good,1960s,Low
+tt0252591,King of the Doormen,Comedy,8.3,14347,1976,Good,1970s,Low
+tt0068519,Gentlemen of Fortune,"Comedy, Crime, Drama",8.3,13657,1971,Good,1970s,Low
+tt30953759,No Other Land,Documentary,8.3,13650,2024,Good,2020s,Low
+tt2358592,Lucia,"Drama, Sci-Fi, Thriller",8.3,13632,2013,Good,2010s,Low
+tt0072783,Chupke Chupke,"Comedy, Drama, Romance",8.3,13609,1975,Good,1970s,Low
+tt8652818,Violet Evergarden: The Movie,"Animation, Drama, Fantasy",8.3,12444,2020,Good,2020s,Low
+tt2877108,Soodhu Kavvum,"Comedy, Crime, Thriller",8.3,12413,2013,Good,2010s,Low
+tt0252619,From the Village to the City,Comedy,8.3,12405,1974,Good,1970s,Low
+tt0139876,Baasha,"Action, Crime, Drama",8.3,12258,1995,Good,1990s,Low
+tt18568902,Kaun Pravin Tambe?,"Biography, Drama, Sport",8.3,11512,2022,Good,2020s,Low
+tt4851630,Maheshinte Prathikaaram,"Comedy, Drama",8.3,11287,2016,Good,2010s,Low
+tt0179955,Cat City,"Adventure, Animation, Comedy",8.3,11209,1986,Good,1980s,Low
+tt0301634,Frozen Stiff,"Comedy, Drama",8.3,10595,2002,Good,2000s,Low
+tt0993846,The Wolf of Wall Street,"Biography, Comedy, Crime",8.2,1694716,2013,Good,2010s,Very High
+tt0372784,Batman Begins,"Action, Crime, Drama",8.2,1651481,2005,Good,2000s,Very High
+tt1130884,Shutter Island,"Drama, Mystery, Thriller",8.2,1556804,2010,Good,2010s,Very High
+tt0120382,The Truman Show,"Comedy, Drama",8.2,1289808,1998,Good,1990s,Very High
+tt0266697,Kill Bill: Vol. 1,"Action, Crime, Thriller",8.2,1254806,2003,Good,2000s,Very High
+tt0266543,Finding Nemo,"Adventure, Animation, Comedy",8.2,1163958,2003,Good,2000s,Very High
+tt0477348,No Country for Old Men,"Crime, Drama, Thriller",8.2,1127372,2007,Good,2000s,Very High
+tt0107290,Jurassic Park,"Action, Adventure, Sci-Fi",8.2,1123770,1993,Good,1990s,Very High
+tt0167404,The Sixth Sense,"Drama, Mystery, Thriller",8.2,1103122,1999,Good,1990s,Very High
+tt0268978,A Beautiful Mind,"Biography, Drama, Mystery",8.2,1024509,2001,Good,2000s,Very High
+tt0095016,Die Hard,"Action, Thriller",8.2,992891,1988,Good,1980s,Very High
+tt0075314,Taxi Driver,"Crime, Drama",8.2,982929,1976,Good,1970s,Very High
+tt10872600,Spider-Man: No Way Home,"Action, Adventure, Fantasy",8.2,957578,2021,Good,2020s,Very High
+tt0208092,Snatch,"Comedy, Crime",8.2,948825,2000,Good,2000s,Very High
+tt0066921,A Clockwork Orange,"Crime, Sci-Fi",8.2,913964,1971,Good,1970s,Very High
+tt1392214,Prisoners,"Crime, Drama, Mystery",8.2,876949,2013,Good,2010s,Very High
+tt0097576,Indiana Jones and the Last Crusade,"Action, Adventure",8.2,841095,1989,Good,1980s,Very High
+tt0093058,Full Metal Jacket,"Drama, War",8.2,824672,1987,Good,1980s,Very High
+tt1745960,Top Gun: Maverick,"Action, Drama",8.2,782934,2022,Good,2020s,Very High
+tt8579674,1917,"Action, Drama, War",8.2,731809,2019,Good,2010s,Very High
+tt0457430,Pan's Labyrinth,"Drama, Fantasy, War",8.2,726765,2006,Good,2000s,Very High
+tt0469494,There Will Be Blood,Drama,8.2,673746,2007,Good,2000s,Very High
+tt0119488,L.A. Confidential,"Crime, Drama, Mystery",8.2,643108,1997,Good,1990s,Very High
+tt6966692,Green Book,"Biography, Comedy, Drama",8.2,640060,2018,Good,2010s,Very High
+tt0112641,Casino,"Crime, Drama",8.2,594973,1995,Good,1990s,Very High
+tt0071853,Monty Python and the Holy Grail,"Adventure, Comedy, Fantasy",8.2,589558,1975,Good,1970s,Very High
+tt0084787,The Thing,"Horror, Mystery, Sci-Fi",8.2,501061,1982,Good,1980s,Very High
+tt0347149,Howl's Moving Castle,"Adventure, Animation, Family",8.2,486031,2004,Good,2000s,High
+tt0105695,Unforgiven,"Drama, Western",8.2,455983,1992,Good,1990s,High
+tt0052357,Vertigo,"Mystery, Romance, Thriller",8.2,446479,1958,Good,1950s,High
+tt0363163,Downfall,"Biography, Drama, History",8.2,389869,2004,Good,2000s,High
+tt0031381,Gone with the Wind,"Drama, Romance, War",8.2,347605,1939,Good,1930s,High
+tt0053291,Some Like It Hot,"Comedy, Music, Romance",8.2,296111,1959,Good,1950s,High
+tt0070735,The Sting,"Comedy, Crime, Drama",8.2,291314,1973,Good,1970s,High
+tt0059578,For a Few Dollars More,"Drama, Western",8.2,289810,1965,Good,1960s,High
+tt0080678,The Elephant Man,"Biography, Drama",8.2,273879,1980,Good,1980s,High
+tt0057115,The Great Escape,"Adventure, Drama, Thriller",8.2,269843,1963,Good,1960s,High
+tt1305806,The Secret in Their Eyes,"Drama, Mystery, Romance",8.2,233646,2009,Good,2000s,High
+tt4729430,Klaus,"Adventure, Animation, Comedy",8.2,215672,2019,Good,2010s,High
+tt10272386,The Father,"Drama, Mystery",8.2,214526,2020,Good,2020s,High
+tt0046912,Dial M for Murder,"Crime, Drama, Mystery",8.2,198676,1954,Good,1950s,Medium
+tt0042876,Rashomon,"Crime, Drama, Mystery",8.2,190235,1950,Good,1950s,Medium
+tt0040522,Bicycle Thieves,Drama,8.2,186149,1948,Good,1940s,Medium
+tt29623480,The Wild Robot,"Animation, Sci-Fi",8.2,179395,2024,Good,2020s,Medium
+tt10698680,K.G.F: Chapter 2,"Action, Crime, Drama",8.2,159474,2022,Good,2020s,Medium
+tt0042192,All About Eve,Drama,8.2,145305,1950,Good,1950s,Medium
+tt0089881,Ran,"Action, Drama, War",8.2,144722,1985,Good,1980s,Medium
+tt0012349,The Kid,"Comedy, Drama, Family",8.2,141763,1921,Good,1920s,Medium
+tt0055630,Yojimbo,"Action, Drama, Thriller",8.2,138323,1961,Good,1960s,Medium
+tt0040897,The Treasure of the Sierra Madre,"Adventure, Drama, Western",8.2,137918,1948,Good,1940s,Medium
+tt4849438,Baahubali 2: The Conclusion,"Action, Drama",8.2,124434,2017,Good,2010s,Medium
+tt14961016,I'm Still Here,"Biography, Drama, History",8.2,112080,2024,Good,2020s,Medium
+tt5813916,The Mountain II,"Action, Drama, War",8.2,111721,2016,Good,2010s,Medium
+tt8108198,Andhadhun,"Crime, Mystery, Thriller",8.2,109340,2018,Good,2010s,Medium
+tt1954470,Gangs of Wasseypur,"Action, Comedy, Crime",8.2,108252,2012,Good,2010s,Medium
+tt15327088,Kantara,"Action, Adventure, Drama",8.2,108156,2022,Good,2020s,Medium
+tt7838252,K.G.F: Chapter 1,"Action, Crime, Drama",8.2,105132,2018,Good,2010s,Medium
+tt0367110,Swades,"Drama, Musical",8.2,102157,2004,Good,2000s,Medium
+tt4430212,Drishyam,"Crime, Drama, Mystery",8.2,101940,2015,Good,2010s,Medium
+tt0476735,My Father and My Son,"Drama, Family",8.2,97766,2005,Good,2000s,Medium
+tt1562872,Zindagi Na Milegi Dobara,"Comedy, Drama, Musical",8.2,90855,2011,Good,2010s,Medium
+tt0118849,Children of Heaven,"Drama, Family, Sport",8.2,86312,1997,Good,1990s,Medium
+tt11032374,Demon Slayer: Kimetsu no Yaiba - The Movie: Mugen Train,"Action, Adventure, Animation",8.2,84837,2020,Good,2020s,Medium
+tt1645089,Inside Job,"Crime, Documentary",8.2,81414,2010,Good,2010s,Medium
+tt8291224,Uri: The Surgical Strike,"Action, Drama, History",8.2,76394,2019,Good,2010s,Medium
+tt0242519,Hera Pheri,"Action, Comedy, Crime",8.2,76370,2000,Good,2000s,Medium
+tt2356180,Bhaag Milkha Bhaag,"Biography, Drama, Sport",8.2,74946,2013,Good,2010s,Medium
+tt2125608,Searching for Sugar Man,"Biography, Documentary, Music",8.2,74905,2012,Good,2010s,Medium
+tt8239946,Tumbbad,"Drama, Fantasy, Horror",8.2,68889,2018,Good,2010s,Medium
+tt0015324,Sherlock Jr.,"Action, Comedy, Romance",8.2,62505,1924,Good,1920s,Medium
+tt10431500,Miracle in Cell No. 7,Drama,8.2,59525,2019,Good,2010s,Medium
+tt6148156,Vikram Vedha,"Action, Crime, Drama",8.2,53205,2017,Good,2010s,Medium
+tt15501640,Drishyam 2,"Crime, Drama, Mystery",8.2,49081,2022,Good,2020s,Low
+tt6316138,Ayla: The Daughter of War,"Biography, Drama, History",8.2,46232,2017,Good,2010s,Low
+tt0085809,Koyaanisqatsi,"Documentary, Music",8.2,43402,1982,Good,1980s,Low
+tt2375605,The Act of Killing,"Biography, Crime, Documentary",8.2,42549,2012,Good,2010s,Low
+tt0048473,Pather Panchali,Drama,8.2,40306,1955,Good,1950s,Low
+tt7905466,They Shall Not Grow Old,"Documentary, History, War",8.2,39779,2018,Good,2010s,Low
+tt1620933,Paan Singh Tomar,"Action, Biography, Crime",8.2,39130,2012,Good,2010s,Low
+tt5895028,13th,"Crime, Documentary, History",8.2,38591,2016,Good,2010s,Low
+tt0071411,Dersu Uzala,"Adventure, Biography, Drama",8.2,35190,1975,Good,1970s,Low
+tt28459771,Oficina do Diabo,Drama,8.2,33279,2025,Good,2020s,Low
+tt0045274,Umberto D.,Drama,8.2,29742,1952,Good,1950s,Low
+tt7392212,Rangasthalam,"Action, Drama",8.2,29435,2018,Good,2010s,Low
+tt5929776,Before the Flood,"Documentary, News",8.2,29367,2016,Good,2010s,Low
+tt0049902,A Man Escaped,"Drama, Thriller, War",8.2,29233,1956,Good,1950s,Low
+tt26458038,Manjummel Boys,"Adventure, Drama, Thriller",8.2,28155,2024,Good,2020s,Low
+tt4983780,Maanaadu,"Action, Adventure, Sci-Fi",8.2,26453,2021,Good,2020s,Low
+tt0466460,Khosla Ka Ghosla!,"Comedy, Crime, Drama",8.2,26000,2006,Good,2000s,Low
+tt0100234,Close-Up,"Biography, Crime, Drama",8.2,25156,1990,Good,1990s,Low
+tt0054248,Rocco and His Brothers,"Crime, Drama, Sport",8.2,24294,1960,Good,1960s,Low
+tt0042804,The Young and the Damned,"Crime, Drama",8.2,22965,1950,Good,1950s,Low
+tt25433734,Hi Nanna,"Drama, Family, Romance",8.2,20599,2023,Good,2020s,Low
+tt0041154,Late Spring,"Comedy, Drama",8.2,20594,1949,Good,1940s,Low
+tt0070233,Ivan Vasilyevich Changes His Profession,"Adventure, Comedy, Sci-Fi",8.2,19562,1973,Good,1970s,Low
+tt0100332,Paris Is Burning,Documentary,8.2,19553,1990,Good,1990s,Low
+tt7019942,Super Deluxe,"Comedy, Crime, Drama",8.2,19019,2019,Good,2010s,Low
+tt0117293,Paradise Lost: The Child Murders at Robin Hood Hills,"Crime, Documentary",8.2,18941,1996,Good,1990s,Low
+tt5460658,Life and a Day,Drama,8.2,18759,2016,Good,2010s,Low
+tt2181831,Shahid,"Biography, Drama",8.2,18664,2012,Good,2010s,Low
+tt0050371,A Face in the Crowd,"Drama, Music",8.2,18437,1957,Good,1950s,Low
+tt0081059,Lion of the Desert,"Biography, Drama, History",8.2,18338,1980,Good,1980s,Low
+tt0422320,Ghilli,"Action, Drama, Romance",8.2,18329,2004,Good,2000s,Low
+tt0048452,Ordet,Drama,8.2,18271,1955,Good,1950s,Low
+tt7060460,Theeran Adhigaram Ondru,"Action, Crime, Thriller",8.2,18169,2017,Good,2010s,Low
+tt2218988,Ustad Hotel,"Comedy, Drama",8.2,17811,2012,Good,2010s,Low
+tt0195231,Satya,"Action, Crime, Drama",8.2,17704,1998,Good,1990s,Low
+tt6380520,Dhuruvangal Pathinaaru,"Crime, Drama, Mystery",8.2,17676,2016,Good,2010s,Low
+tt0062759,The Diamond Arm,"Adventure, Comedy, Crime",8.2,17221,1969,Good,1960s,Low
+tt0048956,Aparajito,Drama,8.2,16903,1956,Good,1950s,Low
+tt0471571,Athadu,"Action, Crime, Drama",8.2,15732,2005,Good,2000s,Low
+tt1180583,Vaaranam Aayiram,"Action, Drama, Musical",8.2,15177,2008,Good,2000s,Low
+tt0023042,I Am a Fugitive from a Chain Gang,"Crime, Drama, Film-Noir",8.2,15128,1932,Good,1930s,Low
+tt9500372,Pocket Hercules: Naim Süleymanoglu,"Biography, Drama, History",8.2,14954,2019,Good,2010s,Low
+tt3521134,The Look of Silence,"Biography, Documentary, History",8.2,14456,2014,Good,2010s,Low
+tt3569782,Jigarthanda,"Comedy, Crime, Drama",8.2,14298,2014,Good,2010s,Low
+tt0101985,A Brighter Summer Day,"Crime, Drama, Romance",8.2,14098,1991,Good,1990s,Low
+tt9124428,Champion,"Biography, Drama, Romance",8.2,13823,2018,Good,2010s,Low
+tt0056512,The Easy Life,"Comedy, Drama",8.2,13658,1962,Good,1960s,Low
+tt0111341,Satantango,Drama,8.2,13339,1994,Good,1990s,Low
+tt19811010,The Remarkable Life of Ibelin,"Animation, Biography, Documentary",8.2,12661,2024,Good,2020s,Low
+tt0052600,Ballad of a Soldier,"Drama, Romance, War",8.2,11866,1959,Good,1950s,Low
+tt0058604,I Am Cuba,Drama,8.2,11558,1964,Good,1960s,Low
+tt0075404,The Ascent,"Drama, War",8.2,11246,1977,Good,1970s,Low
+tt11396310,Viduthalai: Part 1,"Action, Crime, Drama",8.2,11179,2023,Good,2020s,Low
+tt0076727,Office Romance,"Comedy, Drama, Romance",8.2,11104,1977,Good,1970s,Low
+tt3153634,Hope,Drama,8.2,10900,2013,Good,2010s,Low
+tt0843326,Bommarillu,"Comedy, Drama, Romance",8.2,10533,2006,Good,2000s,Low
+tt0059527,The Shop on Main Street,"Drama, War",8.2,10183,1965,Good,1960s,Low
+tt0325980,Pirates of the Caribbean: The Curse of the Black Pearl,"Action, Adventure, Fantasy",8.1,1271256,2003,Good,2000s,Very High
+tt0434409,V for Vendetta,"Action, Drama, Sci-Fi",8.1,1217704,2005,Good,2000s,Very High
+tt0264464,Catch Me If You Can,"Biography, Crime, Drama",8.1,1170718,2002,Good,2000s,Very High
+tt1392190,Mad Max: Fury Road,"Action, Adventure, Sci-Fi",8.1,1169309,2015,Good,2010s,Very High
+tt2267998,Gone Girl,"Drama, Mystery, Thriller",8.1,1125361,2014,Good,2010s,Very High
+tt0198781,"Monsters, Inc.","Adventure, Animation, Comedy",8.1,1031915,2001,Good,2000s,Very High
+tt1201607,Harry Potter and the Deathly Hallows: Part 2,"Adventure, Family, Fantasy",8.1,1001378,2011,Good,2010s,Very High
+tt0088247,The Terminator,"Action, Adventure, Sci-Fi",8.1,968304,1984,Good,1980s,Very High
+tt2278388,The Grand Budapest Hotel,"Comedy, Drama",8.1,930189,2014,Good,2010s,Very High
+tt3315342,Logan,"Action, Drama, Sci-Fi",8.1,893091,2017,Good,2010s,Very High
+tt0118715,The Big Lebowski,"Comedy, Crime",8.1,892928,1998,Good,1990s,Very High
+tt0382932,Ratatouille,"Adventure, Animation, Comedy",8.1,890402,2007,Good,2000s,Very High
+tt2096673,Inside Out,"Adventure, Animation, Comedy",8.1,871609,2015,Good,2010s,Very High
+tt0083658,Blade Runner,"Action, Drama, Sci-Fi",8.1,856324,1982,Good,1980s,Very High
+tt0892769,How to Train Your Dragon,"Action, Adventure, Animation",8.1,850061,2010,Good,2010s,Very High
+tt1205489,Gran Torino,Drama,8.1,841597,2008,Good,2000s,Very High
+tt2024544,12 Years a Slave,"Biography, Drama, History",8.1,766654,2013,Good,2010s,Very High
+tt0116282,Fargo,"Crime, Drama, Thriller",8.1,759011,1996,Good,1990s,Very High
+tt0117951,Trainspotting,Drama,8.1,751473,1996,Good,1990s,Very High
+tt0405159,Million Dollar Baby,"Drama, Sport",8.1,748248,2004,Good,2000s,Very High
+tt0073195,Jaws,"Adventure, Drama, Horror",8.1,697630,1975,Good,1970s,Very High
+tt0075148,Rocky,"Drama, Sport",8.1,662474,1976,Good,1970s,Very High
+tt2119532,Hacksaw Ridge,"Biography, Drama, History",8.1,640705,2016,Good,2010s,Very High
+tt0120735,"Lock, Stock and Two Smoking Barrels","Comedy, Crime",8.1,636631,1998,Good,1990s,Very High
+tt0097165,Dead Poets Society,"Comedy, Drama",8.1,594404,1989,Good,1980s,Very High
+tt5027774,"Three Billboards Outside Ebbing, Missouri","Comedy, Crime, Drama",8.1,585233,2017,Good,2010s,Very High
+tt1979320,Rush,"Biography, Drama, Sport",8.1,536637,2013,Good,2010s,Very High
+tt1950186,Ford v Ferrari,"Action, Biography, Drama",8.1,526790,2019,Good,2010s,Very High
+tt1895587,Spotlight,"Biography, Crime, Drama",8.1,520467,2015,Good,2010s,Very High
+tt1291584,Warrior,"Action, Drama, Sport",8.1,516004,2011,Good,2010s,Very High
+tt1454029,The Help,Drama,8.1,514597,2011,Good,2010s,Very High
+tt0070047,The Exorcist,Horror,8.1,479613,1973,Good,1970s,High
+tt3170832,Room,"Drama, Thriller",8.1,469217,2015,Good,2010s,High
+tt0092005,Stand by Me,"Adventure, Comedy, Drama",8.1,466314,1986,Good,1980s,High
+tt0091763,Platoon,"Drama, War",8.1,457664,1986,Good,1980s,High
+tt0032138,The Wizard of Oz,"Adventure, Family, Fantasy",8.1,452060,1939,Good,1930s,High
+tt0096283,My Neighbor Totoro,"Animation, Comedy, Family",8.1,409923,1988,Good,1980s,High
+tt0081398,Raging Bull,"Biography, Drama, Sport",8.1,396942,1980,Good,1980s,High
+tt0395169,Hotel Rwanda,"Biography, Drama, History",8.1,384655,2004,Good,2000s,High
+tt0077416,The Deer Hunter,"Drama, War",8.1,376719,1978,Good,1970s,High
+tt0071315,Chinatown,"Drama, Mystery, Thriller",8.1,366205,1974,Good,1970s,High
+tt0112471,Before Sunrise,"Comedy, Drama, Romance",8.1,360743,1995,Good,1990s,High
+tt1028532,Hachi: A Dog's Tale,"Biography, Drama, Family",8.1,329739,2009,Good,2000s,High
+tt0381681,Before Sunset,"Drama, Romance",8.1,303363,2004,Good,2000s,High
+tt0059742,The Sound of Music,"Biography, Drama, Family",8.1,277727,1965,Good,1960s,High
+tt0052618,Ben-Hur,"Adventure, Drama",8.1,264287,1959,Good,1950s,High
+tt0129167,The Iron Giant,"Action, Adventure, Animation",8.1,246235,1999,Good,1990s,High
+tt0353969,Memories of Murder,"Crime, Drama, Mystery",8.1,243629,2003,Good,2000s,High
+tt0050212,The Bridge on the River Kwai,"Adventure, Drama, War",8.1,242861,1957,Good,1950s,High
+tt3011894,Wild Tales,"Comedy, Drama, Thriller",8.1,229671,2014,Good,2010s,High
+tt0113247,La haine,"Crime, Drama",8.1,213245,1995,Good,1990s,High
+tt2338151,PK,"Comedy, Drama, Sci-Fi",8.1,211886,2014,Good,2010s,High
+tt0050976,The Seventh Seal,"Drama, Fantasy",8.1,209452,1957,Good,1950s,High
+tt0978762,Mary and Max,"Animation, Comedy, Drama",8.1,196836,2009,Good,2000s,Medium
+tt0107207,In the Name of the Father,"Biography, Crime, Drama",8.1,196782,1993,Good,1990s,Medium
+tt0072684,Barry Lyndon,"Adventure, Drama, War",8.1,194394,1975,Good,1970s,Medium
+tt0041959,The Third Man,"Drama, Film-Noir, Mystery",8.1,190344,1949,Good,1940s,Medium
+tt4016934,The Handmaiden,"Drama, Romance, Thriller",8.1,189613,2016,Good,2010s,Medium
+tt0074958,Network,Drama,8.1,180041,1976,Good,1970s,Medium
+tt0118694,In the Mood for Love,"Drama, Romance",8.1,177967,2000,Good,2000s,Medium
+tt0047296,On the Waterfront,"Crime, Drama, Thriller",8.1,173016,1954,Good,1950s,Medium
+tt0032976,Rebecca,"Drama, Mystery, Romance",8.1,159541,1940,Good,1940s,Medium
+tt0087884,"Paris, Texas",Drama,8.1,132267,1984,Good,1980s,Medium
+tt0031679,Mr. Smith Goes to Washington,"Comedy, Drama",8.1,126422,1939,Good,1930s,Medium
+tt0169102,Lagaan: Once Upon a Time in India,"Drama, Musical, Sport",8.1,124697,2001,Good,2000s,Medium
+tt0405508,Rang De Basanti,"Comedy, Crime, Drama",8.1,124599,2006,Good,2000s,Medium
+tt0015864,The Gold Rush,"Adventure, Comedy, Drama",8.1,124447,1925,Good,1920s,Medium
+tt5323662,A Silent Voice: The Movie,"Animation, Drama",8.1,122536,2016,Good,2010s,Medium
+tt0050986,Wild Strawberries,"Drama, Romance",8.1,120979,1957,Good,1950s,Medium
+tt0025316,It Happened One Night,"Comedy, Romance",8.1,117041,1934,Good,1930s,Medium
+tt0111495,Three Colors: Red,"Drama, Mystery, Romance",8.1,114085,1994,Good,1990s,Medium
+tt0032551,The Grapes of Wrath,Drama,8.1,105454,1940,Good,1940s,Medium
+tt3863552,Bajrangi Bhaijaan,"Action, Adventure, Comedy",8.1,105272,2015,Good,2010s,Medium
+tt0017925,The General,"Action, Adventure, Comedy",8.1,103177,1926,Good,1920s,Medium
+tt0374887,Munna Bhai M.B.B.S.,"Comedy, Drama",8.1,92400,2003,Good,2000s,Medium
+tt2082197,Barfi!,"Comedy, Drama, Romance",8.1,90471,2012,Good,2010s,Medium
+tt0871510,Chak De! India,"Drama, Family, Sport",8.1,87852,2007,Good,2000s,Medium
+tt0056217,The Man Who Shot Liberty Valance,"Drama, Western",8.1,86070,1962,Good,1960s,Medium
+tt1280558,A Wednesday,"Action, Crime, Drama",8.1,84376,2008,Good,2000s,Medium
+tt10554232,Dara of Jasenovac,"Drama, War",8.1,82154,2020,Good,2020s,Medium
+tt7775622,Free Solo,"Adventure, Documentary, Sport",8.1,82052,2018,Good,2010s,Medium
+tt2545118,Blackfish,"Documentary, Drama, Horror",8.1,75095,2013,Good,2010s,Medium
+tt0036868,The Best Years of Our Lives,"Drama, Romance, War",8.1,75024,1946,Good,1940s,Medium
+tt0046438,Tokyo Story,Drama,8.1,74457,1953,Good,1950s,Medium
+tt0116231,The Bandit,"Crime, Drama",8.1,74026,1996,Good,1990s,Medium
+tt0046911,Diabolique,"Crime, Drama, Horror",8.1,71653,1955,Good,1950s,Medium
+tt0058946,The Battle of Algiers,"Drama, War",8.1,71435,1966,Good,1960s,Medium
+tt0169858,Neon Genesis Evangelion: The End of Evangelion,"Action, Animation, Drama",8.1,71135,1997,Good,1990s,Medium
+tt0046268,The Wages of Fear,"Adventure, Drama, Thriller",8.1,70860,1953,Good,1950s,Medium
+tt0020629,All Quiet on the Western Front,"Drama, War",8.1,70192,1930,Good,1930s,Medium
+tt3322420,Queen,"Adventure, Comedy, Drama",8.1,69969,2013,Good,2010s,Medium
+tt0083922,Fanny and Alexander,Drama,8.1,69621,1982,Good,1980s,Medium
+tt2283748,OMG: Oh My God!,"Comedy, Drama, Fantasy",8.1,68335,2012,Good,2010s,Medium
+tt1821480,Kahaani,"Mystery, Thriller",8.1,68096,2012,Good,2010s,Medium
+tt12888462,My Octopus Teacher,"Documentary, Drama",8.1,68068,2020,Good,2020s,Medium
+tt0019254,The Passion of Joan of Arc,"Biography, Drama, History",8.1,65444,1928,Good,1920s,Medium
+tt0073707,Sholay,"Action, Adventure, Comedy",8.1,60788,1975,Good,1970s,Medium
+tt0018455,Sunrise,"Drama, Romance",8.1,55551,1927,Good,1920s,Medium
+tt0070510,Paper Moon,"Comedy, Crime, Drama",8.1,55311,1973,Good,1970s,Medium
+tt0050783,Nights of Cabiria,Drama,8.1,55065,1957,Good,1950s,Medium
+tt0074896,The Message,"Biography, Drama, History",8.1,52697,1976,Good,1970s,Medium
+tt2140203,Wolf Children,"Animation, Drama, Family",8.1,52438,2012,Good,2010s,Medium
+tt2991224,Tangerines,"Drama, War",8.1,50624,2013,Good,2010s,Medium
+tt1639426,Udaan,Drama,8.1,48638,2010,Good,2010s,Low
+tt0035446,To Be or Not to Be,"Comedy, Romance, War",8.1,47390,1942,Good,1940s,Low
+tt20256528,What Is a Woman?,Documentary,8.1,46753,2022,Good,2020s,Low
+tt4573394,Endless Corridor,"Documentary, History",8.1,42255,2014,Good,2010s,Low
+tt0040725,The Red Shoes,"Drama, Music, Romance",8.1,41714,1948,Good,1940s,Low
+tt0043338,Ace in the Hole,"Drama, Film-Noir",8.1,40961,1951,Good,1950s,Low
+tt4934950,Guilty,"Crime, Drama, Mystery",8.1,40311,2015,Good,2010s,Low
+tt0028950,The Grand Illusion,"Drama, War",8.1,40234,1937,Good,1930s,Low
+tt0077711,Autumn Sonata,"Drama, Music",8.1,40158,1978,Good,1970s,Low
+tt2187153,Thuppakki,"Action, Crime, Thriller",8.1,39968,2012,Good,2010s,Low
+tt10324144,Article 15,"Crime, Drama, Mystery",8.1,39038,2019,Good,2010s,Low
+tt0048021,Rififi,"Crime, Drama, Thriller",8.1,38147,1955,Good,1950s,Low
+tt0018773,The Circus,"Comedy, Family, Romance",8.1,37507,1928,Good,1920s,Low
+tt0042041,White Heat,"Action, Crime, Drama",8.1,37314,1949,Good,1940s,Low
+tt0375611,Black,Drama,8.1,36955,2005,Good,2000s,Low
+tt0101640,Raise the Red Lantern,"Drama, Romance",8.1,36751,1991,Good,1990s,Low
+tt0066763,Anand,"Drama, Musical",8.1,36499,1971,Good,1970s,Low
+tt8108268,The Tashkent Files,"Drama, Mystery, Thriller",8.1,36468,2019,Good,2010s,Low
+tt0106332,Farewell My Concubine,"Drama, Music, Romance",8.1,35324,1993,Good,1990s,Low
+tt14152756,Seaspiracy,"Adventure, Documentary",8.1,35049,2021,Good,2020s,Low
+tt0053946,Inherit the Wind,"Biography, Drama, History",8.1,34366,1960,Good,1960s,Low
+tt0097223,Time of the Gypsies,"Comedy, Crime, Drama",8.1,33694,1988,Good,1980s,Low
+tt9851854,Major,"Action, Biography, Drama",8.1,33571,2022,Good,2020s,Low
+tt4635372,Masaan,Drama,8.1,33317,2015,Good,2010s,Low
+tt0065234,Z,"Crime, Drama, Thriller",8.1,32836,1969,Good,1960s,Low
+tt3801314,Kaththi,"Action, Drama",8.1,31908,2014,Good,2010s,Low
+tt0244316,Yi Yi,"Drama, Romance",8.1,30658,2000,Good,2000s,Low
+tt7236034,I Want to Eat Your Pancreas,"Animation, Drama, Family",8.1,30530,2018,Good,2010s,Low
+tt0263438,Everything's Gonna Be Great,"Comedy, Drama",8.1,29068,1998,Good,1990s,Low
+tt0091288,Jean de Florette,Drama,8.1,28520,1986,Good,1980s,Low
+tt8760684,Apollo 11,"Documentary, History",8.1,28040,2019,Good,2010s,Low
+tt0200087,Sarfarosh,"Action, Crime, Drama",8.1,28034,1999,Good,1990s,Low
+tt0064040,Army of Shadows,"Drama, War",8.1,27835,1969,Good,1960s,Low
+tt0044008,A Christmas Carol,"Drama, Family, Fantasy",8.1,27570,1951,Good,1950s,Low
+tt0095467,A Short Film About Love,"Drama, Romance",8.1,27303,1988,Good,1980s,Low
+tt0046478,Ugetsu,"Drama, Fantasy, War",8.1,27267,1953,Good,1950s,Low
+tt3302820,Cowspiracy: The Sustainability Secret,Documentary,8.1,27078,2014,Good,2010s,Low
+tt0428870,A Moment to Remember,"Drama, Romance",8.1,26510,2004,Good,2000s,Low
+tt0351817,The Twilight Samurai,"Drama, Romance",8.1,26425,2002,Good,2000s,Low
+tt0104561,Jo Jeeta Wohi Sikandar,"Comedy, Drama, Romance",8.1,25596,1992,Good,1990s,Low
+tt2659414,Miracle in Cell No. 7,"Comedy, Drama",8.1,25264,2013,Good,2010s,Low
+tt0102015,Hearts of Darkness: A Filmmaker's Apocalypse,Documentary,8.1,24531,1991,Good,1990s,Low
+tt0014429,Safety Last!,"Action, Comedy, Thriller",8.1,24062,1923,Good,1920s,Low
+tt0425333,Pardon,"Comedy, Drama",8.1,23866,2005,Good,2000s,Low
+tt7286916,The Dawn Wall,"Biography, Documentary, Sport",8.1,21826,2017,Good,2010s,Low
+tt26743210,How to Train Your Dragon,"Action, Adventure, Comedy",8.1,21606,2025,Good,2020s,Low
+tt0056241,The Miracle Worker,"Biography, Drama",8.1,21528,1962,Good,1960s,Low
+tt0128332,Innocence,Drama,8.1,21457,1997,Good,1990s,Low
+tt0077838,The Last Waltz,"Biography, Documentary, Music",8.1,21269,1978,Good,1970s,Low
+tt0093342,Where Is the Friend's House?,"Drama, Family",8.1,21033,1987,Good,1980s,Low
+tt8144834,Section 375,"Crime, Drama, Mystery",8.1,19558,2019,Good,2010s,Low
+tt27118357,Amaran,"Action, Biography, Drama",8.1,19389,2024,Good,2020s,Low
+tt0066580,Woodstock,"Documentary, History, Music",8.1,19059,1970,Good,1970s,Low
+tt1781069,Zeitgeist: Moving Forward,Documentary,8.1,18893,2011,Good,2010s,Low
+tt0191043,The Color of Paradise,"Drama, Family",8.1,18872,1999,Good,1990s,Low
+tt0041452,The Heiress,"Drama, Romance",8.1,18285,1949,Good,1940s,Low
+tt0453729,Iqbal,"Drama, Sport",8.1,18103,2005,Good,2000s,Low
+tt11375428,Hridayam,"Drama, Musical, Romance",8.1,18058,2022,Good,2020s,Low
+tt0319736,The Legend of Bhagat Singh,"Biography, Drama, History",8.1,17791,2002,Good,2000s,Low
+tt0016847,Faust,"Drama, Fantasy, Horror",8.1,17571,1926,Good,1920s,Low
+tt0076085,A Special Day,Drama,8.1,17417,1977,Good,1970s,Low
+tt19853258,Still: A Michael J. Fox Movie,"Biography, Documentary",8.1,17046,2023,Good,2020s,Low
+tt4432480,RangiTaranga,"Mystery, Thriller",8.1,15629,2015,Good,2010s,Low
+tt0116630,Indian,"Action, Drama, Musical",8.1,15542,1996,Good,1990s,Low
+tt0105271,Roja,"Drama, Romance, Thriller",8.1,14362,1992,Good,1990s,Low
+tt0112553,Bombay,"Drama, Romance",8.1,14182,1995,Good,1990s,Low
+tt5082014,Charlie,"Adventure, Drama, Romance",8.1,14122,2015,Good,2010s,Low
+tt10706602,Collective,"Crime, Documentary",8.1,13957,2019,Good,2010s,Low
+tt1634013,Montevideo: Taste of a Dream,"Adventure, Comedy, Drama",8.1,13438,2010,Good,2010s,Low
+tt1113829,George Harrison: Living in the Material World,"Biography, Documentary, Music",8.1,13017,2011,Good,2010s,Low
+tt0330243,Day of the Wacko,"Comedy, Drama, Romance",8.1,12632,2002,Good,2000s,Low
+tt3455224,Virunga,"Documentary, War",8.1,12544,2014,Good,2010s,Low
+tt0036506,Day of Wrath,"Drama, History",8.1,11619,1943,Good,1940s,Low
+tt34956443,Ne Zha 2,"Action, Adventure, Animation",8.1,11305,2025,Good,2020s,Low
+tt13299890,The Great Indian Kitchen,"Comedy, Drama, Family",8.1,10765,2021,Good,2020s,Low
+tt0029192,Make Way for Tomorrow,"Drama, Romance",8.1,10218,1937,Good,1930s,Low
+tt0848228,The Avengers,"Action, Sci-Fi",8,1512810,2012,Good,2010s,Very High
+tt2015381,Guardians of the Galaxy,"Action, Adventure, Comedy",8,1320839,2014,Good,2010s,Very High
+tt1431045,Deadpool,"Action, Comedy, Sci-Fi",8,1210655,2016,Good,2010s,Very High
+tt3659388,The Martian,"Adventure, Drama, Sci-Fi",8,970957,2015,Good,2010s,Very High
+tt1160419,Dune: Part One,"Action, Adventure, Drama",8,961530,2021,Good,2020s,Very High
+tt1663202,The Revenant,"Adventure, Drama, Western",8,914396,2015,Good,2010s,Very High
+tt1010048,Slumdog Millionaire,"Crime, Drama, Romance",8,896406,2008,Good,2000s,Very High
+tt0246578,Donnie Darko,"Drama, Mystery, Sci-Fi",8,884943,2001,Good,2000s,Very High
+tt0947798,Black Swan,"Drama, Thriller",8,861880,2010,Good,2010s,Very High
+tt0317705,The Incredibles,"Action, Adventure, Animation",8,858934,2004,Good,2000s,Very High
+tt2084970,The Imitation Game,"Biography, Drama, Thriller",8,855325,2014,Good,2010s,Very High
+tt0378194,Kill Bill: Vol. 2,"Action, Crime, Thriller",8,839792,2004,Good,2000s,Very High
+tt0401792,Sin City,"Crime, Thriller",8,808938,2005,Good,2000s,Very High
+tt1504320,The King's Speech,"Biography, Drama, History",8,722496,2010,Good,2010s,Very High
+tt3783958,La La Land,"Comedy, Drama, Music",8,722368,2016,Good,2010s,Very High
+tt0381061,Casino Royale,"Action, Adventure, Thriller",8,719754,2006,Good,2000s,Very High
+tt0107048,Groundhog Day,"Comedy, Drama, Fantasy",8,718906,1993,Good,1990s,Very High
+tt1856101,Blade Runner 2049,"Action, Drama, Mystery",8,716994,2017,Good,2010s,Very High
+tt1798709,Her,"Drama, Romance, Sci-Fi",8,703916,2013,Good,2010s,Very High
+tt0758758,Into the Wild,"Adventure, Biography, Drama",8,681007,2007,Good,2000s,Very High
+tt0440963,The Bourne Ultimatum,"Action, Mystery, Thriller",8,672559,2007,Good,2000s,Very High
+tt0114746,12 Monkeys,"Mystery, Sci-Fi, Thriller",8,665400,1995,Good,1990s,Very High
+tt0450259,Blood Diamond,"Adventure, Drama, Thriller",8,608932,2006,Good,2000s,Very High
+tt0454921,The Pursuit of Happyness,"Biography, Drama",8,593999,2006,Good,2000s,Very High
+tt2948356,Zootopia,"Action, Adventure, Animation",8,582657,2016,Good,2010s,Very High
+tt0095953,Rain Man,Drama,8,567057,1988,Good,1980s,Very High
+tt0101414,Beauty and the Beast,"Animation, Family, Fantasy",8,494241,1991,Good,1990s,High
+tt0103639,Aladdin,"Adventure, Animation, Comedy",8,487741,1992,Good,1990s,High
+tt0319061,Big Fish,"Adventure, Drama, Fantasy",8,470094,2003,Good,2000s,High
+tt0093779,The Princess Bride,"Adventure, Comedy, Family",8,468636,1987,Good,1980s,High
+tt0079470,Monty Python's Life of Brian,Comedy,8,429439,1979,Good,1970s,High
+tt2948372,Soul,"Adventure, Animation, Comedy",8,410363,2020,Good,2020s,High
+tt0105323,Scent of a Woman,Drama,8,352850,1992,Good,1990s,High
+tt0175880,Magnolia,Drama,8,338811,1999,Good,1990s,High
+tt0099348,Dances with Wolves,"Adventure, Drama, Western",8,301666,1990,Good,1990s,High
+tt0061722,The Graduate,"Comedy, Drama, Romance",8,297230,1967,Good,1960s,High
+tt0072890,Dog Day Afternoon,"Biography, Crime, Drama",8,282760,1975,Good,1970s,High
+tt0245712,Amores Perros,"Drama, Thriller",8,268371,2000,Good,2000s,High
+tt3741834,Lion,"Biography, Drama",8,260196,2016,Good,2010s,High
+tt0063522,Rosemary's Baby,"Drama, Horror",8,249122,1968,Good,1960s,High
+tt0083987,Gandhi,"Biography, Drama, History",8,244312,1982,Good,1980s,High
+tt1220719,Ip Man,"Action, Biography, Drama",8,238967,2008,Good,2000s,High
+tt0064115,Butch Cassidy and the Sundance Kid,"Biography, Crime, Drama",8,232693,1969,Good,1960s,High
+tt0094625,Akira,"Animation, Drama, Fantasy",8,216675,1988,Good,1980s,High
+tt0063442,Planet of the Apes,"Adventure, Sci-Fi",8,205447,1968,Good,1960s,High
+tt0352248,Cinderella Man,"Biography, Drama, Romance",8,204753,2005,Good,2000s,High
+tt4857264,The Invisible Guest,"Crime, Drama, Mystery",8,203398,2016,Good,2010s,High
+tt0061512,Cool Hand Luke,"Crime, Drama",8,194568,1967,Good,1960s,Medium
+tt0092067,Castle in the Sky,"Adventure, Animation, Family",8,191570,1986,Good,1980s,Medium
+tt0087544,Nausicaä of the Valley of the Wind,"Adventure, Animation, Sci-Fi",8,191255,1984,Good,1980s,Medium
+tt10366460,CODA,"Comedy, Drama, Music",8,179296,2021,Good,2020s,Medium
+tt0102138,JFK,"Drama, History, Thriller",8,176821,1991,Good,1990s,Medium
+tt0072431,Young Frankenstein,Comedy,8,175866,1974,Good,1970s,Medium
+tt0276919,Dogville,"Crime, Drama",8,164590,2003,Good,2000s,Medium
+tt0046250,Roman Holiday,"Comedy, Drama, Romance",8,153762,1953,Good,1950s,Medium
+tt0079944,Stalker,"Drama, Sci-Fi",8,151784,1979,Good,1970s,Medium
+tt0310793,Bowling for Columbine,"Crime, Documentary, Drama",8,150928,2002,Good,2000s,Medium
+tt2631186,Baahubali: The Beginning,"Action, Drama",8,145430,2015,Good,2010s,Medium
+tt0070511,Papillon,"Biography, Crime, Drama",8,142592,1973,Good,1970s,Medium
+tt0060827,Persona,"Drama, Thriller",8,136590,1966,Good,1960s,Medium
+tt0338564,Infernal Affairs,"Crime, Drama, Mystery",8,135122,2002,Good,2000s,Medium
+tt0053198,The 400 Blows,"Crime, Drama",8,131717,1959,Good,1950s,Medium
+tt0056801,8½,Drama,8,129609,1963,Good,1960s,Medium
+tt8613070,Portrait of a Lady on Fire,"Drama, Romance",8,119819,2019,Good,2010s,Medium
+tt0097216,Do the Right Thing,"Comedy, Drama",8,119239,1989,Good,1980s,Medium
+tt0861739,Elite Squad,"Action, Crime, Drama",8,115376,2007,Good,2000s,Medium
+tt0401383,The Diving Bell and the Butterfly,"Biography, Drama",8,111880,2007,Good,2000s,Medium
+tt0156887,Perfect Blue,"Animation, Crime, Drama",8,108878,1997,Good,1990s,Medium
+tt0166896,The Straight Story,"Biography, Drama",8,104558,1999,Good,1990s,Medium
+tt0808417,Persepolis,"Animation, Biography, Drama",8,103179,2007,Good,2000s,Medium
+tt0048424,The Night of the Hunter,"Crime, Drama, Film-Noir",8,102955,1955,Good,1950s,Medium
+tt0117666,Sling Blade,Drama,8,102158,1996,Good,1990s,Medium
+tt0154420,The Celebration,Drama,8,97969,1998,Good,1990s,Medium
+tt11555492,Farha,Drama,8,90474,2021,Good,2020s,Medium
+tt1555149,Elite Squad 2: The Enemy Within,"Crime, Drama, Thriller",8,89773,2010,Good,2010s,Medium
+tt0374546,"Spring, Summer, Fall, Winter... and Spring","Drama, Romance",8,89149,2003,Good,2000s,Medium
+tt0084503,Pink Floyd: The Wall,"Drama, Fantasy, Music",8,87995,1982,Good,1980s,Medium
+tt0369702,The Sea Inside,"Biography, Drama",8,87089,2004,Good,2000s,Medium
+tt0053779,La Dolce Vita,"Comedy, Drama",8,82768,1960,Good,1960s,Medium
+tt0061184,Who's Afraid of Virginia Woolf?,Drama,8,82552,1966,Good,1960s,Medium
+tt0112870,Dilwale Dulhania Le Jayenge,"Drama, Romance",8,80491,1995,Good,1990s,Medium
+tt0292490,Dil Chahta Hai,"Comedy, Drama, Romance",8,78090,2001,Good,2000s,Medium
+tt0386032,Sicko,"Documentary, Drama",8,77764,2007,Good,2000s,Medium
+tt0052561,Anatomy of a Murder,"Drama, Mystery",8,75445,1959,Good,1950s,Medium
+tt0010323,The Cabinet of Dr. Caligari,"Horror, Mystery, Thriller",8,73705,1920,Good,1920s,Medium
+tt4169250,M.S. Dhoni: The Untold Story,"Biography, Drama, Sport",8,72213,2016,Good,2010s,Medium
+tt0120731,The Legend of 1900,"Drama, Music, Romance",8,71646,1998,Good,1990s,Medium
+tt0053221,Rio Bravo,Western,8,71238,1959,Good,1950s,Medium
+tt0384116,G.O.R.A.,"Adventure, Comedy, Sci-Fi",8,69503,2004,Good,2000s,Medium
+tt0047528,La Strada,Drama,8,68442,1954,Good,1950s,Medium
+tt1865505,Song of the Sea,"Adventure, Animation, Drama",8,65983,2014,Good,2010s,Medium
+tt0056687,What Ever Happened to Baby Jane?,"Drama, Horror, Thriller",8,65154,1962,Good,1960s,Medium
+tt3612616,Mommy,Drama,8,64106,2014,Good,2010s,Medium
+tt0114787,Underground,"Comedy, Drama, Fantasy",8,62940,1995,Good,1990s,Medium
+tt0062229,Le Samouraï,"Crime, Drama, Thriller",8,62768,1967,Good,1960s,Medium
+tt1185616,Waltz with Bashir,"Animation, Biography, Documentary",8,61826,2008,Good,2000s,Medium
+tt2377938,Special 26,"Crime, Drama, History",8,61008,2013,Good,2010s,Medium
+tt3390572,Haider,"Action, Crime, Drama",8,59552,2014,Good,2010s,Medium
+tt4044364,Citizenfour,"Biography, Documentary",8,59154,2014,Good,2010s,Medium
+tt0060107,Andrei Rublev,"Biography, Drama, History",8,59092,1966,Good,1960s,Medium
+tt2576852,The Tale of The Princess Kaguya,"Animation, Drama, Family",8,58583,2013,Good,2010s,Medium
+tt0050613,Throne of Blood,Drama,8,58303,1957,Good,1950s,Medium
+tt0118843,"Black Cat, White Cat","Comedy, Crime, Romance",8,57766,1998,Good,1990s,Medium
+tt2758880,Winter Sleep,Drama,8,57642,2014,Good,2010s,Medium
+tt0109117,Andaz Apna Apna,"Action, Comedy, Romance",8,56820,1994,Good,1990s,Medium
+tt1069238,Departures,Drama,8,56447,2008,Good,2000s,Medium
+tt0067328,The Last Picture Show,"Drama, Romance",8,55226,1971,Good,1970s,Medium
+tt0456144,Lage Raho Munna Bhai,"Comedy, Drama, Romance",8,52092,2006,Good,2000s,Medium
+tt5571734,Pink,"Crime, Drama, Thriller",8,50335,2016,Good,2010s,Medium
+tt0067093,Fiddler on the Roof,"Drama, Family, Musical",8,50210,1971,Good,1970s,Medium
+tt0117589,Secrets & Lies,"Comedy, Drama",8,49849,1996,Good,1990s,Low
+tt0140888,Central Station,Drama,8,48135,1998,Good,1990s,Low
+tt0037558,Brief Encounter,"Drama, Romance",8,46713,1945,Good,1940s,Low
+tt0051808,The Hidden Fortress,"Adventure, Drama",8,44176,1958,Good,1950s,Low
+tt0056443,Sanjuro,"Action, Drama, Thriller",8,42924,1962,Good,1960s,Low
+tt0039689,Out of the Past,"Crime, Drama, Film-Noir",8,42783,1947,Good,1940s,Low
+tt5198068,Wolfwalkers,"Action, Adventure, Animation",8,42195,2020,Good,2020s,Low
+tt0056111,Ivan's Childhood,"Drama, War",8,41894,1962,Good,1960s,Low
+tt4257858,Going Clear: Scientology & the Prison of Belief,Documentary,8,41894,2015,Good,2010s,Low
+tt0386064,Tae Guk Gi: The Brotherhood of War,"Action, Drama, War",8,41844,2004,Good,2000s,Low
+tt0033045,The Shop Around the Corner,"Comedy, Drama, Romance",8,41756,1940,Good,1940s,Low
+tt0041546,Kind Hearts and Coronets,"Comedy, Crime",8,40902,1949,Good,1940s,Low
+tt8633462,"Quo Vadis, Aida?","Drama, History, War",8,40599,2020,Good,2020s,Low
+tt0270053,Vizontele,"Comedy, Drama, History",8,40239,2001,Good,2000s,Low
+tt0051036,Sweet Smell of Success,"Drama, Film-Noir",8,38227,1957,Good,1950s,Low
+tt0923752,The King of Kong: A Fistful of Quarters,"Biography, Documentary, Sport",8,38185,2007,Good,2000s,Low
+tt0092593,Au Revoir les Enfants,"Drama, War",8,37566,1987,Good,1980s,Low
+tt0056732,The Exterminating Angel,"Drama, Fantasy",8,37068,1962,Good,1960s,Low
+tt1171701,The Breath,"Action, Drama, Thriller",8,36315,2009,Good,2000s,Low
+tt27540542,Lucky Baskhar,"Crime, Drama, Thriller",8,34044,2024,Good,2020s,Low
+tt0408664,Nobody Knows,Drama,8,33677,2004,Good,2000s,Low
+tt0053976,The Virgin Spring,Drama,8,32891,1960,Good,1960s,Low
+tt0038890,"Rome, Open City","Drama, Thriller, War",8,32239,1945,Good,1940s,Low
+tt0072417,A Woman Under the Influence,"Drama, Romance",8,31475,1974,Good,1970s,Low
+tt3461252,The Blue Elephant,"Crime, Drama, Horror",8,30593,2014,Good,2010s,Low
+tt24485052,Sirf Ek Bandaa Kaafi Hai,"Crime, Drama, Thriller",8,30489,2023,Good,2020s,Low
+tt6628102,The Wild Pear Tree,Drama,8,29642,2018,Good,2010s,Low
+tt1935156,Jodorowsky's Dune,Documentary,8,28820,2013,Good,2010s,Low
+tt0057358,Winter Light,Drama,8,28378,1963,Good,1960s,Low
+tt0055601,Viridiana,Drama,8,27256,1961,Good,1960s,Low
+tt0038733,A Matter of Life and Death,"Drama, Fantasy, Romance",8,26777,1946,Good,1940s,Low
+tt0058083,Fail Safe,"Drama, Thriller",8,26204,1964,Good,1960s,Low
+tt0036244,The Ox-Bow Incident,"Drama, Western",8,26148,1942,Good,1940s,Low
+tt0317910,The Fog of War,"Biography, Documentary, History",8,25710,2003,Good,2000s,Low
+tt0070460,Day for Night,"Comedy, Drama, Romance",8,25652,1973,Good,1970s,Low
+tt0071141,Ali: Fear Eats the Soul,"Drama, Romance",8,25135,1974,Good,1970s,Low
+tt2070649,Silenced,"Crime, Drama, Thriller",8,25042,2011,Good,2010s,Low
+tt0091480,Manon of the Spring,Drama,8,24937,1986,Good,1980s,Low
+tt11581174,Karnan,"Action, Drama",8,24463,2021,Good,2020s,Low
+tt28814949,Taylor Swift: The Eras Tour,"Documentary, Music, Musical",8,24363,2023,Good,2020s,Low
+tt0095468,A Short Film About Killing,"Crime, Drama",8,23526,1988,Good,1980s,Low
+tt0044837,Limelight,"Drama, Music, Romance",8,23232,1952,Good,1950s,Low
+tt0488414,Omkara,"Action, Crime, Drama",8,23108,2006,Good,2000s,Low
+tt0109508,Crumb,"Biography, Comedy, Documentary",8,22380,1994,Good,1990s,Low
+tt0379225,The Corporation,"Documentary, History",8,22076,2003,Good,2000s,Low
+tt0424227,Turtles Can Fly,"Drama, War",8,21641,2004,Good,2000s,Low
+tt3449292,Manjhi: The Mountain Man,"Biography, Drama",8,20630,2015,Good,2010s,Low
+tt1499666,Castaway on the Moon,"Comedy, Drama, Romance",8,20432,2009,Good,2000s,Low
+tt8991268,Honeyland,Documentary,8,20020,2019,Good,2010s,Low
+tt3268458,The Internet's Own Boy: The Story of Aaron Swartz,"Biography, Crime, Documentary",8,18364,2014,Good,2010s,Low
+tt3560686,The Fool,"Crime, Drama, Thriller",8,17551,2014,Good,2010s,Low
+tt0036112,The Life and Death of Colonel Blimp,"Drama, Romance, War",8,17519,1943,Good,1940s,Low
+tt22488728,Love Today,"Comedy, Drama, Romance",8,17040,2022,Good,2020s,Low
+tt1128075,Love Exposure,"Action, Comedy, Drama",8,17009,2008,Good,2000s,Low
+tt1261047,Gulaal,"Crime, Drama, Thriller",8,16641,2009,Good,2000s,Low
+tt0816258,Pokiri,"Action, Crime, Thriller",8,16391,2006,Good,2000s,Low
+tt2458948,Evangelion: 3.0+1.01 Thrice Upon a Time,"Action, Animation, Drama",8,16327,2021,Good,2020s,Low
+tt0015064,The Last Laugh,Drama,8,15980,1924,Good,1920s,Low
+tt0063611,Shame,Drama,8,15765,1968,Good,1960s,Low
+tt0220832,Vaastav: The Reality,"Action, Crime, Drama",8,15443,1999,Good,1990s,Low
+tt0012364,The Phantom Carriage,"Drama, Fantasy, Horror",8,15102,1921,Good,1920s,Low
+tt0079579,Moscow Does Not Believe in Tears,"Comedy, Drama, Romance",8,15090,1980,Good,1980s,Low
+tt0054460,The Bad Sleep Well,"Crime, Drama, Thriller",8,14902,1960,Good,1960s,Low
+tt11422728,"Summer of Soul (...Or, When the Revolution Could Not Be Televised)","Documentary, History, Music",8,14731,2021,Good,2020s,Low
+tt10919240,Malik,"Action, Biography, Crime",8,14685,2021,Good,2020s,Low
+tt0222012,Hey Ram,"Crime, Drama, History",8,14664,2000,Good,2000s,Low
+tt0065889,Investigation of a Citizen Above Suspicion,"Crime, Drama",8,14388,1970,Good,1970s,Low
+tt0018742,The Cameraman,"Comedy, Drama, Family",8,13948,1928,Good,1920s,Low
+tt0043686,Forbidden Games,"Drama, War",8,13769,1952,Good,1950s,Low
+tt32284154,Rekhachithram,"Drama, Mystery, Thriller",8,13685,2025,Good,2020s,Low
+tt0379370,Maqbool,"Crime, Drama, Thriller",8,12806,2003,Good,2000s,Low
+tt0478209,Metal: A Headbanger's Journey,"Documentary, Music",8,12713,2005,Good,2000s,Low
+tt0072860,Deewaar,"Action, Crime, Drama",8,12419,1975,Good,1970s,Low
+tt15980138,Kishkindha Kaandam,"Drama, Mystery, Thriller",8,12407,2024,Good,2020s,Low
+tt0278736,Stanley Kubrick: A Life in Pictures,"Biography, Documentary",8,12391,2001,Good,2000s,Low
+tt3686998,The Red Pill,Documentary,8,12334,2016,Good,2010s,Low
+tt0165546,The Wounds,"Comedy, Crime, Drama",8,12196,1998,Good,1990s,Low
+tt0063633,The Cremator,"Comedy, Crime, Drama",8,11976,1969,Good,1960s,Low
+tt11322920,Ayyappanum Koshiyum,"Action, Drama, Thriller",8,11727,2020,Good,2020s,Low
+tt2150209,My Grandfather's People,"Comedy, Drama, Family",8,11706,2011,Good,2010s,Low
+tt27542289,Por Thozhil,"Action, Crime, Thriller",8,11661,2023,Good,2020s,Low
+tt0263208,Abbas in Flower,"Comedy, Drama, Romance",8,11602,1982,Good,1980s,Low
+tt10515086,The Blue Elephant 2,"Crime, Drama, Horror",8,11599,2019,Good,2010s,Low
+tt15242330,The First Slam Dunk,"Animation, Comedy, Drama",8,11529,2022,Good,2020s,Low
+tt0056444,An Autumn Afternoon,Drama,8,11425,1962,Good,1960s,Low
+tt0015881,Greed,"Drama, Thriller, Western",8,11268,1924,Good,1920s,Low
+tt2028530,Paradise Lost 3: Purgatory,"Crime, Documentary",8,11268,2011,Good,2010s,Low
+tt0366840,Okkadu,"Action, Drama, Romance",8,11240,2003,Good,2000s,Low
+tt24226474,Jigarthanda Double X,"Action, Comedy, Drama",8,11203,2023,Good,2020s,Low
+tt7476236,Minding the Gap,"Documentary, Sport",8,10835,2018,Good,2010s,Low
+tt0436971,Why We Fight,"Documentary, History, War",8,10386,2005,Good,2000s,Low
+tt0055353,A Raisin in the Sun,Drama,8,10248,1961,Good,1960s,Low
+tt0043313,Early Summer,"Comedy, Drama, Romance",8,10242,1951,Good,1950s,Low
+tt3270538,Requiem for the American Dream,"Biography, Documentary, News",8,10111,2015,Good,2010s,Low
+tt1592303,Ask Your Heart,"Drama, Romance",8,10054,2010,Good,2010s,Low
+tt0499549,Avatar,"Action, Adventure, Fantasy",7.9,1434098,2009,Good,2000s,Very High
+tt0120338,Titanic,"Drama, Romance",7.9,1343402,1997,Good,1990s,Very High
+tt0371746,Iron Man,"Action, Adventure, Sci-Fi",7.9,1177974,2008,Good,2000s,Very High
+tt3501632,Thor: Ragnarok,"Action, Adventure, Comedy",7.9,859072,2017,Good,2010s,Very High
+tt2543164,Arrival,"Drama, Mystery, Sci-Fi",7.9,821425,2016,Good,2010s,Very High
+tt8946378,Knives Out,"Comedy, Crime, Drama",7.9,820767,2019,Good,2010s,Very High
+tt0126029,Shrek,"Adventure, Animation, Comedy",7.9,776334,2001,Good,2000s,Very High
+tt1631867,Edge of Tomorrow,"Action, Adventure, Sci-Fi",7.9,776259,2014,Good,2010s,Very High
+tt1877832,X-Men: Days of Future Past,"Action, Adventure, Sci-Fi",7.9,771864,2014,Good,2010s,Very High
+tt1136608,District 9,"Action, Sci-Fi, Thriller",7.9,737083,2009,Good,2000s,Very High
+tt0304141,Harry Potter and the Prisoner of Azkaban,"Adventure, Family, Fantasy",7.9,731997,2004,Good,2000s,Very High
+tt0454876,Life of Pi,"Adventure, Drama, Fantasy",7.9,686509,2012,Good,2010s,Very High
+tt0120363,Toy Story 2,"Adventure, Animation, Comedy",7.9,646919,1999,Good,1990s,Very High
+tt0796366,Star Trek,"Action, Adventure, Sci-Fi",7.9,630227,2009,Good,2000s,Very High
+tt1727824,Bohemian Rhapsody,"Biography, Drama, Music",7.9,624555,2018,Good,2010s,Very High
+tt0365748,Shaun of the Dead,"Comedy, Horror",7.9,620937,2004,Good,2000s,Very High
+tt1659337,The Perks of Being a Wallflower,Drama,7.9,572636,2012,Good,2010s,Very High
+tt0206634,Children of Men,"Drama, Sci-Fi, Thriller",7.9,549013,2006,Good,2000s,Very High
+tt0790636,Dallas Buyers Club,"Biography, Drama",7.9,536197,2013,Good,2010s,Very High
+tt0327056,Mystic River,"Crime, Drama, Mystery",7.9,505398,2003,Good,2000s,Very High
+tt0780536,In Bruges,"Comedy, Crime, Drama",7.9,480431,2008,Good,2000s,High
+tt2584384,Jojo Rabbit,"Comedy, Drama, War",7.9,469144,2019,Good,2010s,High
+tt12361974,Zack Snyder's Justice League,"Action, Adventure, Fantasy",7.9,457371,2021,Good,2020s,High
+tt0083866,E.T. the Extra-Terrestrial,"Adventure, Family, Sci-Fi",7.9,454953,1982,Good,1980s,High
+tt6791350,Guardians of the Galaxy Vol. 3,"Action, Adventure, Comedy",7.9,433244,2023,Good,2020s,High
+tt0166924,Mulholland Drive,"Drama, Mystery, Thriller",7.9,408502,2001,Good,2000s,High
+tt0107688,The Nightmare Before Christmas,"Animation, Family, Fantasy",7.9,396091,1993,Good,1990s,High
+tt1065073,Boyhood,Drama,7.9,375796,2014,Good,2010s,High
+tt7653254,Marriage Story,"Drama, Romance",7.9,361598,2019,Good,2010s,High
+tt1125849,The Wrestler,"Drama, Sport",7.9,326196,2008,Good,2000s,High
+tt0181875,Almost Famous,"Adventure, Comedy, Drama",7.9,305153,2000,Good,2000s,High
+tt0118749,Boogie Nights,Drama,7.9,291977,1997,Good,1990s,High
+tt0190332,"Crouching Tiger, Hidden Dragon","Action, Adventure, Drama",7.9,288657,2000,Good,2000s,High
+tt0432283,Fantastic Mr. Fox,"Adventure, Animation, Comedy",7.9,287969,2009,Good,2000s,High
+tt0075686,Annie Hall,"Comedy, Romance",7.9,284894,1977,Good,1970s,High
+tt0108399,True Romance,"Crime, Drama, Romance",7.9,253149,1993,Good,1990s,High
+tt0058461,A Fistful of Dollars,"Drama, Western",7.9,245108,1964,Good,1960s,High
+tt0106519,Carlito's Way,"Crime, Drama, Thriller",7.9,241003,1993,Good,1990s,High
+tt0080455,The Blues Brothers,"Adventure, Comedy, Crime",7.9,222667,1980,Good,1980s,High
+tt14849194,The Holdovers,"Comedy, Drama",7.9,201323,2023,Good,2020s,High
+tt0299977,Hero,"Action, Adventure, Drama",7.9,191024,2002,Good,2000s,Medium
+tt2543472,Wonder,"Drama, Family",7.9,189142,2017,Good,2010s,Medium
+tt2209418,Before Midnight,"Drama, Romance",7.9,179819,2013,Good,2010s,Medium
+tt0085334,A Christmas Story,"Comedy, Family",7.9,175226,1983,Good,1980s,Medium
+tt0033870,The Maltese Falcon,"Crime, Drama, Film-Noir",7.9,171288,1941,Good,1940s,Medium
+tt0113568,Ghost in the Shell,"Action, Animation, Crime",7.9,166006,1995,Good,1990s,Medium
+tt0040746,Rope,"Crime, Drama, Mystery",7.9,160878,1948,Good,1940s,Medium
+tt0088258,This Is Spinal Tap,"Comedy, Music",7.9,151932,1984,Good,1980s,Medium
+tt0054331,Spartacus,"Adventure, Biography, Drama",7.9,148392,1960,Good,1960s,Medium
+tt0044079,Strangers on a Train,"Crime, Drama, Film-Noir",7.9,145867,1951,Good,1950s,Medium
+tt2265171,The Raid 2,"Action, Crime, Thriller",7.9,136127,2014,Good,2010s,Medium
+tt0074119,All the President's Men,"Drama, History, Thriller",7.9,131540,1976,Good,1970s,Medium
+tt0168629,Dancer in the Dark,"Crime, Drama, Musical",7.9,121014,2000,Good,2000s,Medium
+tt0287467,Talk to Her,"Drama, Mystery, Romance",7.9,120133,2002,Good,2000s,Medium
+tt1188996,My Name Is Khan,"Drama, Romance",7.9,120095,2010,Good,2010s,Medium
+tt0044081,A Streetcar Named Desire,Drama,7.9,117743,1951,Good,1950s,Medium
+tt0044706,High Noon,"Drama, Thriller, Western",7.9,113933,1952,Good,1950s,Medium
+tt0052311,Touch of Evil,"Crime, Drama, Film-Noir",7.9,112852,1958,Good,1950s,Medium
+tt0066206,Patton,"Biography, Drama, War",7.9,111681,1970,Good,1970s,Medium
+tt0038787,Notorious,"Drama, Film-Noir, Mystery",7.9,111187,1946,Good,1940s,Medium
+tt1602620,Amour,Drama,7.9,108448,2012,Good,2010s,Medium
+tt3544112,Sing Street,"Comedy, Drama, Music",7.9,104841,2016,Good,2010s,Medium
+tt0109424,Chungking Express,"Comedy, Crime, Drama",7.9,104451,1994,Good,1990s,Medium
+tt0049406,The Killing,"Crime, Drama, Film-Noir",7.9,102237,1956,Good,1950s,Medium
+tt0069293,Solaris,"Drama, Mystery, Sci-Fi",7.9,102220,1972,Good,1970s,Medium
+tt2370248,Short Term 12,Drama,7.9,93987,2013,Good,2010s,Medium
+tt0024216,King Kong,"Adventure, Horror",7.9,93846,1933,Good,1930s,Medium
+tt0038355,The Big Sleep,"Crime, Drama, Film-Noir",7.9,93456,1946,Good,1940s,Medium
+tt0065214,The Wild Bunch,"Action, Adventure, Drama",7.9,93223,1969,Good,1960s,Medium
+tt8075192,Shoplifters,"Crime, Drama, Thriller",7.9,91862,2018,Good,2010s,Medium
+tt0054997,The Hustler,"Drama, Sport",7.9,89232,1961,Good,1960s,Medium
+tt0061811,In the Heat of the Night,"Drama, Mystery, Thriller",7.9,87832,1967,Good,1960s,Medium
+tt27503384,Perfect Days,Drama,7.9,85197,2023,Good,2020s,Medium
+tt0059113,Doctor Zhivago,"Drama, Romance, War",7.9,84786,1965,Good,1960s,Medium
+tt0067185,Harold and Maude,"Comedy, Drama, Romance",7.9,84257,1971,Good,1970s,Medium
+tt4772188,Flow,"Adventure, Animation, Family",7.9,83181,2024,Good,2020s,Medium
+tt0056218,The Manchurian Candidate,"Drama, Thriller",7.9,82742,1962,Good,1960s,Medium
+tt0049833,The Ten Commandments,"Adventure, Drama, Family",7.9,81614,1956,Good,1950s,Medium
+tt0093191,Wings of Desire,"Drama, Fantasy, Romance",7.9,81151,1987,Good,1980s,Medium
+tt0078841,Being There,"Comedy, Drama",7.9,80717,1979,Good,1970s,Medium
+tt0347304,Kal Ho Naa Ho,"Comedy, Drama, Musical",7.9,78683,2003,Good,2000s,Medium
+tt0036613,Arsenic and Old Lace,"Comedy, Crime, Thriller",7.9,77052,1944,Good,1940s,Medium
+tt1587707,Exit Through the Gift Shop,"Comedy, Crime, Documentary",7.9,70047,2010,Good,2010s,Medium
+tt1032846,"4 Months, 3 Weeks and 2 Days",Drama,7.9,64783,2007,Good,2000s,Medium
+tt0015648,Battleship Potemkin,"Drama, History, Thriller",7.9,63514,1925,Good,1920s,Medium
+tt1093370,Jab We Met,"Comedy, Drama, Romance",7.9,62228,2007,Good,2000s,Medium
+tt3848892,Baby,"Action, Thriller",7.9,62053,2015,Good,2010s,Medium
+tt0046359,Stalag 17,"Comedy, Drama, War",7.9,60332,1953,Good,1950s,Medium
+tt4387040,Airlift,"Drama, History",7.9,60108,2016,Good,2010s,Medium
+tt0247586,Nine Queens,"Crime, Drama, Thriller",7.9,60058,2000,Good,2000s,Medium
+tt0423866,3-Iron,"Crime, Drama, Romance",7.9,60055,2004,Good,2000s,Medium
+tt0042546,Harvey,"Comedy, Drama, Fantasy",7.9,59884,1950,Good,1950s,Medium
+tt1360860,About Elly,"Drama, Mystery",7.9,59337,2009,Good,2000s,Medium
+tt5116302,Togo,"Adventure, Biography, Drama",7.9,59082,2019,Good,2010s,Medium
+tt0039628,Miracle on 34th Street,"Comedy, Drama, Family",7.9,58089,1947,Good,1940s,Medium
+tt6333060,Icarus,"Documentary, Sport",7.9,56728,2017,Good,2010s,Medium
+tt0029843,The Adventures of Robin Hood,"Action, Adventure, Romance",7.9,56378,1938,Good,1930s,Medium
+tt0051459,Cat on a Hot Tin Roof,Drama,7.9,55485,1958,Good,1950s,Medium
+tt0072443,Mirror,"Biography, Drama",7.9,55356,1975,Good,1970s,Medium
+tt0037008,Laura,"Drama, Film-Noir, Mystery",7.9,53941,1944,Good,1940s,Medium
+tt0293715,My Sassy Girl,"Comedy, Drama, Romance",7.9,51843,2001,Good,2000s,Medium
+tt0069281,Sleuth,"Mystery, Thriller",7.9,51567,1972,Good,1970s,Medium
+tt0283509,No Man's Land,"Comedy, Drama, War",7.9,49799,2001,Good,2000s,Low
+tt0376968,The Return,Drama,7.9,48682,2003,Good,2000s,Low
+tt2375559,1: Nenokkadine,"Action, Thriller",7.9,47239,2014,Good,2010s,Low
+tt2395469,Gully Boy,"Drama, Music, Romance",7.9,45295,2019,Good,2010s,Low
+tt0037884,The Lost Weekend,"Drama, Film-Noir",7.9,41978,1945,Good,1940s,Low
+tt2199711,Vishwaroopam,"Action, Thriller",7.9,41450,2013,Good,2010s,Low
+tt0083946,Fitzcarraldo,"Adventure, Drama, Music",7.9,40983,1982,Good,1980s,Low
+tt0080979,Kagemusha: The Shadow Warrior,"Drama, History, War",7.9,39784,1980,Good,1980s,Low
+tt7485048,Super 30,"Biography, Drama",7.9,39572,2019,Good,2010s,Low
+tt7725596,Badhaai Ho,"Comedy, Drama",7.9,39344,2018,Good,2010s,Low
+tt0379557,Touching the Void,"Adventure, Documentary, Drama",7.9,39150,2003,Good,2000s,Low
+tt0069467,Cries & Whispers,Drama,7.9,38630,1972,Good,1970s,Low
+tt0110729,Once Were Warriors,"Crime, Drama",7.9,38267,1994,Good,1990s,Low
+tt0042593,In a Lonely Place,"Drama, Film-Noir, Mystery",7.9,37522,1950,Good,1950s,Low
+tt0065571,The Conformist,Drama,7.9,37042,1970,Good,1970s,Low
+tt0106469,"Blood In, Blood Out","Biography, Crime, Drama",7.9,36260,1993,Good,1990s,Low
+tt6878038,A Taxi Driver,"Action, Drama, History",7.9,35472,2017,Good,2010s,Low
+tt4330758,Black Hawk Down,Documentary,7.9,34655,1997,Good,1990s,Low
+tt0025878,The Thin Man,"Comedy, Crime, Mystery",7.9,33923,1934,Good,1930s,Low
+tt0091670,The Sacrifice,Drama,7.9,33456,1986,Good,1980s,Low
+tt1327035,Dev.D,"Comedy, Drama, Romance",7.9,33273,2009,Good,2000s,Low
+tt0031885,The Rules of the Game,"Comedy, Drama",7.9,32557,1939,Good,1930s,Low
+tt0057091,The Leopard,"Drama, History",7.9,32441,1963,Good,1960s,Low
+tt0086022,Nostalghia,Drama,7.9,31843,1983,Good,1980s,Low
+tt0045555,The Big Heat,"Crime, Drama, Film-Noir",7.9,31140,1953,Good,1950s,Low
+tt7218518,Pad Man,"Comedy, Drama",7.9,30844,2018,Good,2010s,Low
+tt0061809,In Cold Blood,"Biography, Crime, Drama",7.9,30804,1967,Good,1960s,Low
+tt0065531,Le cercle rouge,"Crime, Drama, Thriller",7.9,30394,1970,Good,1970s,Low
+tt0051378,Elevator to the Gallows,"Crime, Drama, Thriller",7.9,30330,1958,Good,1950s,Low
+tt0037913,Mildred Pierce,"Crime, Drama, Film-Noir",7.9,30227,1945,Good,1940s,Low
+tt0034240,Sullivan's Travels,"Adventure, Comedy, Drama",7.9,29844,1941,Good,1940s,Low
+tt0038348,Beauty and the Beast,"Drama, Fantasy, Romance",7.9,29128,1946,Good,1940s,Low
+tt7294534,Arjun Reddy,"Drama, Romance",7.9,28927,2017,Good,2010s,Low
+tt1702014,The Way He Looks,"Drama, Romance",7.9,28770,2014,Good,2010s,Low
+tt0055499,Through a Glass Darkly,Drama,7.9,28519,1961,Good,1960s,Low
+tt0028010,My Man Godfrey,"Comedy, Drama, Romance",7.9,27633,1936,Good,1930s,Low
+tt0096257,The Thin Blue Line,"Crime, Documentary",7.9,27043,1988,Good,1980s,Low
+tt0860906,Evangelion: 2.0 You Can (Not) Advance,"Action, Animation, Drama",7.9,26984,2009,Good,2000s,Low
+tt0054130,La Notte,Drama,7.9,25451,1961,Good,1960s,Low
+tt0092048,Tampopo,Comedy,7.9,24757,1985,Good,1980s,Low
+tt2882328,Ugly,"Crime, Drama, Mystery",7.9,24451,2013,Good,2010s,Low
+tt0064541,Kes,"Drama, Family",7.9,24444,1969,Good,1960s,Low
+tt5804038,I Am Not Your Negro,"Documentary, History",7.9,24232,2016,Good,2010s,Low
+tt0029870,Angels with Dirty Faces,"Crime, Drama, Film-Noir",7.9,24159,1938,Good,1930s,Low
+tt0058430,Onibaba,"Drama, Horror, Thriller",7.9,24099,1964,Good,1960s,Low
+tt0051411,The Big Country,"Drama, Romance, Western",7.9,22847,1958,Good,1950s,Low
+tt10869778,Maidaan,"Biography, Drama, History",7.9,22833,2024,Good,2020s,Low
+tt1277737,The Stoning of Soraya M.,Drama,7.9,22549,2008,Good,2000s,Low
+tt0058279,Kwaidan,"Drama, Fantasy, Horror",7.9,21561,1964,Good,1960s,Low
+tt0060474,Don't Look Now... We're Being Shot At!,"Adventure, Comedy, War",7.9,21386,1966,Good,1960s,Low
+tt8430054,Flee,"Animation, Biography, Documentary",7.9,20576,2021,Good,2020s,Low
+tt1087578,Still Walking,Drama,7.9,19925,2008,Good,2000s,Low
+tt0118147,When We Were Kings,"Documentary, Sport",7.9,19924,1996,Good,1990s,Low
+tt0118751,Border,"Action, Drama, History",7.9,18494,1997,Good,1990s,Low
+tt0051994,A Night to Remember,"Drama, History",7.9,18491,1958,Good,1950s,Low
+tt18687124,BTS Permission to Dance on Stage - Seoul: Live Viewing,"Documentary, Music",7.9,17568,2022,Good,2020s,Low
+tt1157605,Anvil: The Story of Anvil,"Biography, Documentary, Drama",7.9,17150,2008,Good,2000s,Low
+tt11772746,Thiruchitrambalam,"Comedy, Drama, Musical",7.9,17109,2022,Good,2020s,Low
+tt19653180,Leila's Brothers,Drama,7.9,17074,2022,Good,2020s,Low
+tt0249241,Werckmeister Harmonies,"Drama, Mystery",7.9,16993,2000,Good,2000s,Low
+tt0023622,Trouble in Paradise,"Comedy, Crime, Romance",7.9,16914,1932,Good,1930s,Low
+tt31392609,How to Make Millions Before Grandma Dies,"Comedy, Drama, Family",7.9,16901,2024,Good,2020s,Low
+tt0200654,On Board,"Crime, Drama",7.9,16847,1998,Good,1990s,Low
+tt0296574,Company,"Action, Crime, Drama",7.9,16783,2002,Good,2000s,Low
+tt0031867,The Roaring Twenties,"Crime, Drama, Thriller",7.9,16670,1939,Good,1930s,Low
+tt0988108,The Class,Drama,7.9,16280,2007,Good,2000s,Low
+tt11790780,The Alpinist,"Biography, Documentary",7.9,15970,2021,Good,2020s,Low
+tt0089603,Mishima: A Life in Four Chapters,"Biography, Drama",7.9,15528,1985,Good,1980s,Low
+tt0156794,Eternity and a Day,Drama,7.9,15412,1998,Good,1990s,Low
+tt30796448,The Greatest Night in Pop,"Documentary, Music",7.9,15239,2024,Good,2020s,Low
+tt0055913,Divorce Italian Style,"Comedy, Drama, Romance",7.9,15100,1961,Good,1960s,Low
+tt0084934,Yol,Drama,7.9,15048,1982,Good,1980s,Low
+tt0393597,Earth,Documentary,7.9,14848,2007,Good,2000s,Low
+tt1183919,Marley,"Biography, Documentary, Music",7.9,14787,2012,Good,2010s,Low
+tt0023563,The Testament of Dr. Mabuse,"Crime, Mystery, Thriller",7.9,14163,1933,Good,1930s,Low
+tt4309356,Ivy,"Drama, Fantasy, Thriller",7.9,14161,2015,Good,2010s,Low
+tt0033836,The Little Foxes,"Drama, Romance",7.9,13705,1941,Good,1940s,Low
+tt5221894,The Other Me,"Crime, Drama, Mystery",7.9,13493,2016,Good,2010s,Low
+tt0051383,Auntie Mame,"Comedy, Drama, Romance",7.9,13413,1958,Good,1950s,Low
+tt8108200,Sonchiriya,"Action, Crime, Drama",7.9,13337,2019,Good,2010s,Low
+tt3614516,Ankhon Dekhi,"Comedy, Drama",7.9,13292,2013,Good,2010s,Low
+tt32080876,Dragon,"Comedy, Drama, Romance",7.9,13075,2025,Good,2020s,Low
+tt1282139,Cars of the Revolution,"Drama, History",7.9,13069,2008,Good,2000s,Low
+tt0060277,The Sword of Doom,"Action, Drama",7.9,12662,1966,Good,1960s,Low
+tt0301727,Winged Migration,Documentary,7.9,12560,2001,Good,2000s,Low
+tt2926068,Manam,"Comedy, Drama, Fantasy",7.9,12496,2014,Good,2010s,Low
+tt0113703,Love Letter,"Drama, Romance",7.9,12339,1995,Good,1990s,Low
+tt0052216,Big Deal on Madonna Street,"Comedy, Crime",7.9,12246,1958,Good,1950s,Low
+tt11833648,The Book of Sun,Comedy,7.9,12113,2020,Good,2020s,Low
+tt0031385,"Goodbye, Mr. Chips","Drama, Romance",7.9,12009,1939,Good,1930s,Low
+tt0117040,Microcosmos,Documentary,7.9,11933,1996,Good,1990s,Low
+tt0074360,Cría Cuervos,Drama,7.9,11884,1976,Good,1970s,Low
+tt0046022,The Earrings of Madame De...,"Drama, Romance",7.9,11697,1953,Good,1950s,Low
+tt0997246,The Song of Sparrows,"Drama, Family",7.9,11576,2008,Good,2000s,Low
+tt0028691,Captains Courageous,"Adventure, Drama, Family",7.9,11506,1937,Good,1930s,Low
+tt2130321,West of Memphis,"Crime, Documentary",7.9,11303,2012,Good,2010s,Low
+tt0061065,The Face of Another,"Drama, Sci-Fi, Thriller",7.9,11287,1966,Good,1960s,Low
+tt0814075,Deliver Us from Evil,"Crime, Documentary",7.9,11114,2006,Good,2000s,Low
+tt0436231,The Devil and Daniel Johnston,"Biography, Documentary, Music",7.9,10792,2005,Good,2000s,Low
+tt0061589,Bob Dylan: Dont Look Back,"Documentary, Music",7.9,10693,1967,Good,1960s,Low
+tt0478813,The Trap,"Crime, Drama, Thriller",7.9,10662,2007,Good,2000s,Low
+tt0096028,Salaam Bombay!,"Crime, Drama",7.9,10571,1988,Good,1980s,Low
+tt0096288,Landscape in the Mist,Drama,7.9,10478,1988,Good,1980s,Low
+tt10717738,Anjaam Pathiraa,"Crime, Mystery, Thriller",7.9,10332,2020,Good,2020s,Low
+tt0082912,Pixote,"Crime, Drama",7.9,10047,1980,Good,1980s,Low
+tt2488496,Star Wars: Episode VII - The Force Awakens,"Action, Adventure, Sci-Fi",7.8,1002823,2015,Good,2010s,Very High
+tt0903624,The Hobbit: An Unexpected Journey,"Adventure, Fantasy",7.8,904758,2012,Good,2010s,Very High
+tt3498820,Captain America: Civil War,"Action, Sci-Fi",7.8,892171,2016,Good,2010s,Very High
+tt1877830,The Batman,"Action, Crime, Drama",7.8,874859,2022,Good,2020s,Very High
+tt1285016,The Social Network,"Biography, Drama",7.8,793219,2010,Good,2010s,Very High
+tt5013056,Dunkirk,"Action, Drama, History",7.8,776021,2017,Good,2010s,Very High
+tt5052448,Get Out,"Horror, Mystery, Thriller",7.8,763848,2017,Good,2010s,Very High
+tt1074638,Skyfall,"Action, Adventure, Thriller",7.8,752296,2012,Good,2010s,Very High
+tt0780504,Drive,"Action, Drama",7.8,738264,2011,Good,2010s,Very High
+tt1170358,The Hobbit: The Desolation of Smaug,"Adventure, Fantasy",7.8,733524,2013,Good,2010s,Very High
+tt3748528,Rogue One: A Star Wars Story,"Action, Adventure, Sci-Fi",7.8,727255,2016,Good,2010s,Very High
+tt0421715,The Curious Case of Benjamin Button,"Drama, Fantasy, Romance",7.8,723704,2008,Good,2000s,Very High
+tt3460252,The Hateful Eight,"Crime, Drama, Mystery",7.8,694476,2015,Good,2010s,Very High
+tt0162222,Cast Away,"Adventure, Drama, Romance",7.8,667932,2000,Good,2000s,Very High
+tt0332280,The Notebook,"Drama, Romance",7.8,658180,2004,Good,2000s,Very High
+tt2872718,Nightcrawler,"Crime, Drama, Thriller",7.8,639697,2014,Good,2010s,Very High
+tt0096874,Back to the Future Part II,"Adventure, Comedy, Sci-Fi",7.8,599786,1989,Good,1980s,Very High
+tt0258463,The Bourne Identity,"Action, Mystery, Thriller",7.8,596322,2002,Good,2000s,Very High
+tt6710474,Everything Everywhere All at Once,"Action, Adventure, Comedy",7.8,583804,2022,Good,2020s,Very High
+tt0425112,Hot Fuzz,"Action, Comedy, Mystery",7.8,553187,2007,Good,2000s,Very High
+tt0099487,Edward Scissorhands,"Drama, Fantasy, Romance",7.8,547801,1990,Good,1990s,Very High
+tt0449059,Little Miss Sunshine,"Comedy, Drama",7.8,539364,2006,Good,2000s,Very High
+tt2245084,Big Hero 6,"Action, Adventure, Animation",7.8,531399,2014,Good,2010s,Very High
+tt1568346,The Girl with the Dragon Tattoo,"Crime, Drama, Mystery",7.8,514997,2011,Good,2010s,Very High
+tt1596363,The Big Short,"Biography, Comedy, Drama",7.8,513717,2015,Good,2010s,Very High
+tt1535109,Captain Phillips,"Action, Biography, Crime",7.8,508744,2013,Good,2010s,Very High
+tt0139654,Training Day,"Crime, Drama, Thriller",7.8,497778,2001,Good,2000s,High
+tt0325710,The Last Samurai,"Action, Drama",7.8,490644,2003,Good,2000s,High
+tt0093773,Predator,"Action, Adventure, Horror",7.8,479263,1987,Good,1980s,High
+tt0765429,American Gangster,"Biography, Crime, Drama",7.8,472873,2007,Good,2000s,High
+tt0087332,Ghostbusters,"Action, Comedy, Fantasy",7.8,471833,1984,Good,1980s,High
+tt0088847,The Breakfast Club,"Comedy, Drama",7.8,458743,1985,Good,1980s,High
+tt1302006,The Irishman,"Biography, Crime, Drama",7.8,454707,2019,Good,2010s,High
